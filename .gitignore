@@ -1,0 +1,25 @@
+# Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter & IDEs
+.ipynb_checkpoints/
+.vscode/
+
+# Project Generated Data (proQ)
+case/proQ/ligands/
+case/proQ/pocket.pdb
+case/proQ/predict.csv
+
+# Session Helper Scripts
+check_ligands.py
+edit_notebook.py
+fix_proQ_notebook.py
+polish_notebook.py
+split_ligands.py
+fix_paths.py

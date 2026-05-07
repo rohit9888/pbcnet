@@ -1,0 +1,127 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+    2.4750   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0000    0.0000 Cr  0  0  0  0  0  6  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000   -0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  2  0
+  2  5  1  0
+M  CHG  4   1  -1   5  -1   6   1   7   1
+M  ISO  1   2  51
+M  END
+>  <DATABASE_ID>  (1) 
+DB09380
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Na+].[Na+].[O-][51Cr]([O-])(=O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cr.2Na.4O/q;2*+1;;;2*-1/i1-1;;;;;;
+
+>  <INCHI_KEY>  (1) 
+PXLIDIMHPNPGMH-PJWPDVOUSA-N
+
+>  <FORMULA>  (1) 
+CrNa2O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+160.92
+
+>  <EXACT_MASS>  (1) 
+160.90396881
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+6.036749268784087
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+disodium dioxo(51Cr)chromiumbis(olate)
+
+>  <ALOGPS_LOGP>  (1) 
+-0.70
+
+>  <JCHEM_LOGP>  (1) 
+-2.5252
+
+>  <ALOGPS_LOGS>  (1) 
+0.21
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+3.301029995663981
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-2.3010299956639804
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.7716
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.62e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+disodium dioxo(51Cr)chromiumbis(olate)
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09380
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Sodium chromate Cr-51
+
+>  <SYNONYMS>  (1) 
+Chromate (51 Cr) de sodium; Cromato sodico (51 Cr); Natrii chromas (51 Cr); Sodium chromate (51 Cr); Sodium chromate (51Cr); Sodium chromate Cr 51; Sodium chromate Cr-51
+
+>  <PRODUCTS>  (1) 
+Chromitope Sodium
+
+$$$$

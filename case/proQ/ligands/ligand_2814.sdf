@@ -1,0 +1,158 @@
+
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+    5.7158    0.8250    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+   -4.2868    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 As  0  0  0  0  0  3  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 As  0  0  0  0  0  3  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    1.6500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  3  8  1  0
+  8  9  1  0
+  5 10  1  0
+ 10 11  2  3
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 15 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 17 23  2  0
+ 12 23  1  0
+M  CHG  2   1   1  22  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB18729
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Na+].NC1=CC(=CC=C1O)\[As]=[As]\C1=CC=C(O)C(NCOS[O-])=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H14As2N2O4S.Na/c16-10-5-8(1-3-12(10)18)14-15-9-2-4-13(19)11(6-9)17-7-21-22-20;/h1-6,17-20H,7,16H2;/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+CXFGBOZIEIIEIH-UHFFFAOYSA-M
+
+>  <FORMULA>  (1) 
+C13H13As2N2NaO4S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+466.15
+
+>  <EXACT_MASS>  (1) 
+465.892562
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+36
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.9992733791112178
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.98462440016145
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+sodium {[({5-[(1E)-2-(3-amino-4-hydroxyphenyl)diarsen-1-yl]-2-hydroxyphenyl}amino)methoxy]sulfanyl}olate
+
+>  <JCHEM_LOGP>  (1) 
+2.7329999999999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+10.098814522086538
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.47990314076276
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.129995283676044
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+110.80000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.8907
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium [({5-[(1E)-2-(3-amino-4-hydroxyphenyl)diarsen-1-yl]-2-hydroxyphenyl}amino)methoxy]sulfanylolate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB18729
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Neoarsphenamine
+
+>  <SYNONYMS>  (1) 
+Neoarsphenamine; Neosalvarsan; Novarsenol; Sodium p,p'-dihydroxy-m,m'-diaminoarsenobenzene-n-monomethanol sulfoxylate; Sulfoxylic acid, mono(((5-((3-amino-4-hydroxyphenyl)diarsenyl)-2-hydroxyphenyl)amino)methyl) ester, sodium salt (1:1)
+
+$$$$

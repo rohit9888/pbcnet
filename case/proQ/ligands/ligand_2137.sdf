@@ -1,0 +1,134 @@
+
+     RDKit          2D
+
+ 11 12  0  0  0  0  0  0  0  0999 V2000
+   -0.1189    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5955    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5955   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1189   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8333   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8334    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5952   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1189    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3098    0.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3098   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3097    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  1  6
+  4  7  1  0
+  1  7  1  0
+  1  8  1  1
+  1  2  1  0
+  2  9  2  0
+  4  3  1  0
+  2  3  1  0
+  6  1  1  0
+  5  6  1  0
+ 10  7  1  0
+ 11  7  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11345
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1(C)[C@H]2CC[C@]1(C)C(=O)C2
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H16O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7H,4-6H2,1-3H3/t7-,10+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+DSSYKIVIOFKYAU-OIBJUYFYSA-N
+
+>  <FORMULA>  (1) 
+C10H16O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+152.2334
+
+>  <EXACT_MASS>  (1) 
+152.120115134
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.734080197788437
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+>  <ALOGPS_LOGP>  (1) 
+2.85
+
+>  <JCHEM_LOGP>  (1) 
+2.5529855899999996
+
+>  <ALOGPS_LOGS>  (1) 
+-2.24
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.485708558665737
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+17.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.492
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.80e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+l-camphor
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11345
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+(S)-camphor
+
+>  <SYNONYMS>  (1) 
+(−)-bornan-2-one; (−)-camphor; (1S,4S)-camphor; (1S)-(−)-camphor; l-camphor
+
+>  <PRODUCTS>  (1) 
+Antiphlamine; Balsang Pain Relief; Bufferin Pain Relief; Doloran; Dragon Pain Relief; Elixicure All Natural Lavender; Elixicure All Natural Original; Elixicure Lavender with CBD; Elixicure Original with CBD; Good Sense Ultra Strength Muscle Rub; Menthol Overnight Pain Relief Gel-Patch; Menthol, Camphor; PainZone; U Ice Cold; iShancare Back Pain Patch; iShancare Herbal Back Patch; iShancare Herbal Elbow Patch; iShancare Herbal Foot Patch; iShancare Herbal Knee Patch; iShancare Herbal Neck Patch; iShancare Herbal Pain Patch; iShancare Herbal Should Patch; iShancare Knee Pain Patch; iShancare Neck Pain Patch; iShancare Pain Relief Patch; iShancare Should Pain Patch
+
+$$$$

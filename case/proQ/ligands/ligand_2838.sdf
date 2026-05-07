@@ -1,0 +1,59 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB19374
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(C)CCCC(C)N
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H19N/c1-7(2)5-4-6-8(3)9/h7-8H,4-6,9H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+QNIVIMYXGGFTAK-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C8H19N
+
+>  <MOLECULAR_WEIGHT>  (1) 
+129.247
+
+>  <EXACT_MASS>  (1) 
+129.151749616
+
+>  <DRUGBANK_ID>  (1) 
+DB19374
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+OCTODRINE
+
+>  <SYNONYMS>  (1) 
+1,5-dimethylhexylamine; 6-methyl-2-heptylamine; Hexylamine, 1,5-dimethyl-
+
+$$$$

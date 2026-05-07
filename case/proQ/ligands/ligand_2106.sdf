@@ -1,0 +1,163 @@
+
+     RDKit          2D
+
+ 22 21  0  0  0  0  0  0  0  0999 V2000
+    5.0012    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2867   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2869   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2869    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0012    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2869   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0012   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 11 14  2  0
+ 13 15  1  1
+ 13 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 18 19  1  0
+ 15 20  1  0
+ 20 21  1  0
+ 20 22  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11272
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COC(=O)[C@H](CC(C)C)NC(=O)CCCCCCCCC=C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H33NO3/c1-5-6-7-8-9-10-11-12-13-17(20)19-16(14-15(2)3)18(21)22-4/h5,15-16H,1,6-14H2,2-4H3,(H,19,20)/t16-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+ICMAWHHKHYZNDA-INIZCTEOSA-N
+
+>  <FORMULA>  (1) 
+C18H33NO3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+311.466
+
+>  <EXACT_MASS>  (1) 
+311.246043927
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+55
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.1506783119049527e-06
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.77555737877384
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+methyl (2S)-4-methyl-2-(undec-10-enamido)pentanoate
+
+>  <ALOGPS_LOGP>  (1) 
+4.46
+
+>  <JCHEM_LOGP>  (1) 
+4.593236681333335
+
+>  <ALOGPS_LOGS>  (1) 
+-5.28
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.937300679625073
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.3341887865561006
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.400000000000006
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+89.86279999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+14
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.65e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethyl 2-[(benzenesulfinyl)methyl]-6-bromo-5-hydroxy-1-methyl-4-[(methylamino)methyl]indole-3-carboxylate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11272
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Methyl undecenoyl leucinate
+
+>  <SYNONYMS>  (1) 
+Methyl undecenoyl leucinate
+
+>  <PRODUCTS>  (1) 
+Isaknox Tervina Lumiere White; Isaknox Tervina Lumiere White Serum
+
+$$$$

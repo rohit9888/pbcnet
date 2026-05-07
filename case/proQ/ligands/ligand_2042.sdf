@@ -1,0 +1,185 @@
+
+     RDKit          2D
+
+ 35 32  0  0  0  0  0  0  0  0999 V2000
+   -5.5869    0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8724   -0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1579    0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4435   -0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7290    0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0145   -0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3013   -0.2251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8724   -1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1579    1.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4435   -1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7290    1.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0145   -1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3000    0.1873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0145    0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7290   -0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4435    0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1579   -0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8724    0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5869   -0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3000   -0.1873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7290   -1.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4435    1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1579   -1.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8724    1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3013    0.2251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5869   -1.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    0.5998    0.0000 Mn  0  0  0  0  0 15  0  0  0  0  0  0
+   -4.8724    0.5998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1579   -0.6376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4435    0.5998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7290   -0.6376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7290    0.6376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4435   -0.5998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1579    0.6376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8724   -0.5998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  7  1  1  0
+  2  8  1  0
+  3  9  1  0
+  4 10  1  0
+  5 11  1  0
+ 12  6  2  0
+ 13  6  1  0
+ 15 14  1  0
+ 16 15  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 20 14  1  0
+ 15 21  1  0
+ 16 22  1  0
+ 17 23  1  0
+ 18 24  1  0
+ 25 19  2  0
+ 26 19  1  0
+  2 28  1  1
+  3 29  1  6
+  4 30  1  6
+  5 31  1  6
+ 15 32  1  1
+ 16 33  1  6
+ 17 34  1  6
+ 18 35  1  6
+M  CHG  3  13  -1  26  -1  27   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB11141
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Mn++].[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C([O-])=O.[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C6H12O7.Mn/c2*7-1-2(8)3(9)4(10)5(11)6(12)13;/h2*2-5,7-11H,1H2,(H,12,13);/q;;+2/p-2/t2*2-,3-,4+,5-;/m11./s1
+
+>  <INCHI_KEY>  (1) 
+OXHQNTSSPHKCPB-IYEMJOQQSA-L
+
+>  <FORMULA>  (1) 
+C12H22MnO14
+
+>  <MOLECULAR_WEIGHT>  (1) 
+445.232
+
+>  <EXACT_MASS>  (1) 
+445.038999
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+49
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.622220252937513
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+manganese(2+) bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)
+
+>  <ALOGPS_LOGP>  (1) 
+-1.96
+
+>  <JCHEM_LOGP>  (1) 
+-3.4097443106666665
+
+>  <ALOGPS_LOGS>  (1) 
+-1.09
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.593710458724516
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.3882055743218547
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.974220927705365
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+141.28
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.10809999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.63e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+manganese(2+) bis(D-gluconate)
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11141
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Manganese gluconate
+
+>  <SYNONYMS>  (1) 
+Manganese D-gluconate; Manganese gluconate; Manganese gluconate anhydrous; Manganese(II) gluconate
+
+>  <PRODUCTS>  (1) 
+Bacmin; Cal-mag Plus K, Mn and Zn Caplets; Children's Chew Multi & Min Tab; Chromease Tab; E 400iu W Selenium 100mcg; Gtf-vitamin-minerals & Pancreatin Tab; Gynedyn Tab; Iron Plus Manganese, B12, Folic Acid & C; Kenwood Liquid Supplement; Manganese (gluconate) 10 Mg Tablets; Manganese Caps 10mg; Men's Multi Master Formula; Multi Vitamin-mineral Formula; Multi-force for Adults Tab; Multi-force for Women Tab; Multivitamins and Minerals for Young Men; Multivitamins and Minerals for Young Women; Organic Minerals Tablet; Pro Enz Tab; Super 7 Vitamin and Mineral Supplement; Super Daily No 2; Swiss One Timed Release Tab; Vital Be-100; Vitamin E 400 Iu With Selenium, Vitamin C & Manganese; Wellness Formula; Women's Formula; Zymain Tab
+
+$$$$

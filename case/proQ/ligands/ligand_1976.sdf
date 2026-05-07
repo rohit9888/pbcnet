@@ -1,0 +1,153 @@
+
+     RDKit          2D
+
+ 17 16  0  0  0  0  0  0  0  0999 V2000
+   28.6534  -10.2584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9392   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2247  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5103   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7960  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0816   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3673  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6528   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9385  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2243   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5098  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7954   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0812  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3667   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6525  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9381   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2236  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09494
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCCCCCCCCCCCCCO
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H34O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h17H,2-16H2,1H3
+
+>  <INCHI_KEY>  (1) 
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C16H34O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+242.4406
+
+>  <EXACT_MASS>  (1) 
+242.26096571
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+51
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+8.747455040604531e-10
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.380659257576646
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+hexadecan-1-ol
+
+>  <ALOGPS_LOGP>  (1) 
+7.17
+
+>  <JCHEM_LOGP>  (1) 
+6.140145926
+
+>  <ALOGPS_LOGS>  (1) 
+-6.13
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+16.84394282199214
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.9922594096606376
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.34689999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+14
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.81e-04 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09494
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Cetyl alcohol
+
+>  <SYNONYMS>  (1) 
+hexadecan-1-ol; palmityl alcohol
+
+>  <PRODUCTS>  (1) 
+All Day Skin Relief with Colloidal Oats; Daily Moisturizing with Colloidal Oats
+
+$$$$

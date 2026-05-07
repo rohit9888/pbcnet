@@ -1,0 +1,119 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB13259
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCl
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3
+
+>  <INCHI_KEY>  (1) 
+HRYZWHHZPQKTII-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C2H5Cl
+
+>  <MOLECULAR_WEIGHT>  (1) 
+64.514
+
+>  <EXACT_MASS>  (1) 
+64.007977867
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+6.424913758595931
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+chloroethane
+
+>  <ALOGPS_LOGP>  (1) 
+1.47
+
+>  <JCHEM_LOGP>  (1) 
+1.192822742
+
+>  <ALOGPS_LOGS>  (1) 
+-0.66
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+16.0609
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.41e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB13259
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Ethyl chloride
+
+>  <SYNONYMS>  (1) 
+chloroethane; Ethyl chloride; monochloroethane
+
+>  <PRODUCTS>  (1) 
+Flouro Ethyl Aer; Tuffner Clear Spray
+
+$$$$

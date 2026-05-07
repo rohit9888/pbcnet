@@ -1,0 +1,100 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 P   0  0  0  0  0 15  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14151
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[P]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/P
+
+>  <INCHI_KEY>  (1) 
+OAICVXFJPJFONN-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+P
+
+>  <MOLECULAR_WEIGHT>  (1) 
+30.9738
+
+>  <EXACT_MASS>  (1) 
+30.973761512
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+phosphorus
+
+>  <JCHEM_LOGP>  (1) 
+0.3
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.2
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phosphorus
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14151
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Phosphorus
+
+>  <SYNONYMS>  (1) 
+Phosphorous; Phosphorus; Phosphorus, elemental
+
+>  <PRODUCTS>  (1) 
+Advanced B & T Formula; Anaplex Tab; Brandycal-D; Calci A and D Tab; Calcium Phosphorus & Vitamin D; Chelamins Plus Tab; Complete One A Day Tab; Folgard; Grand Master Formula Tab; Liquid Calcium Mg Phosphorus and Vit.d-3; Meribin Biotin; Multi-mins Minerals; Multipack II; Multiple Minerals; Nitro Vites - Tab; Nutra Boost; Paramettes Adults; Risacal-D; Vc II; Vita Balance 2000; Vitamin C W Chelates Tab; Vyo Cylate - Pwr
+
+$$$$

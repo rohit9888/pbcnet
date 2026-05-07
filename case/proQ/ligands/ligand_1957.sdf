@@ -1,0 +1,132 @@
+
+     RDKit          2D
+
+ 11  9  0  0  1  0  0  0  0  0999 V2000
+    0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.0313    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2612    0.0000    0.0000 Tc  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  2  6  1  6
+  1  7  1  0
+  7  8  2  0
+  7  9  1  0
+  1 10  1  1
+M  ISO  1  11  99
+M  END
+>  <DATABASE_ID>  (1) 
+DB09436
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[99Tc].OC(=O)[C@@H](S)[C@@H](S)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6O4S2.Tc/c5-3(6)1(9)2(10)4(7)8;/h1-2,9-10H,(H,5,6)(H,7,8);/t1-,2+;/i;1+2
+
+>  <INCHI_KEY>  (1) 
+UEGHKGHBANZTIM-SFJYCVELSA-N
+
+>  <FORMULA>  (1) 
+C4H6O4S2Tc
+
+>  <MOLECULAR_WEIGHT>  (1) 
+281.11
+
+>  <EXACT_MASS>  (1) 
+280.877005575
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+17
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.607038759783698
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S)-2,3-disulfanylbutanedioic acid (99Tc)technetium
+
+>  <ALOGPS_LOGP>  (1) 
+0.56
+
+>  <JCHEM_LOGP>  (1) 
+0.25882704599999995
+
+>  <ALOGPS_LOGS>  (1) 
+-1.87
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+5.44874638068228
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.3712346491431484
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+74.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.4674
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.43e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+succimer (99Tc)technetium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09436
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Technetium Tc-99m succimer
+
+>  <SYNONYMS>  (1) 
+(99m)Tc-DMSA; Technetium (99mTc) succimer; Technetium Tc 99m dimercaptosuccinic acid; Technetium tc 99m succimer; Technetium Tc-99m succimer
+
+$$$$

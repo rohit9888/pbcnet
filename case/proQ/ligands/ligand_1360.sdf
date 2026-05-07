@@ -1,0 +1,125 @@
+4827
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    3.0791    0.3630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.3630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  6  1  0
+  2  6  2  0
+  3  6  1  0
+  4  5  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04827
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCOC(N)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H7NO2/c1-2-6-3(4)5/h2H2,1H3,(H2,4,5)
+
+>  <INCHI_KEY>  (1) 
+JOYRKODLDBILNP-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C3H7NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+89.0932
+
+>  <EXACT_MASS>  (1) 
+89.047678473
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-3.3629351362934023e-09
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+8.64441327256789
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl carbamate
+
+>  <ALOGPS_LOGP>  (1) 
+-0.14
+
+>  <JCHEM_LOGP>  (1) 
+-0.054189237333333376
+
+>  <ALOGPS_LOGS>  (1) 
+0.62
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.473281507740328
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+20.8381
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.71e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB04827
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Urethane
+
+>  <SYNONYMS>  (1) 
+Aethylcarbamat; Aethylurethan; Carbamic acid ethyl ester; Carbamidsaeure-aethylester; Ethyl carbamate; Ethylester kyseliny karbaminove; Uretan etylowy; Uretano; Urethan; Urethane; Urethanum
+
+$$$$

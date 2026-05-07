@@ -1,0 +1,132 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+   -1.4289    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  1  1  0
+  4  3  1  0
+  6  5  2  0
+  3  7  1  0
+  7  5  1  0
+  2  8  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01612
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCCON=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H11NO2/c1-2-3-4-5-8-6-7/h2-5H2,1H3
+
+>  <INCHI_KEY>  (1) 
+CSDTZUBPSYWZDX-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C5H11NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+117.1463
+
+>  <EXACT_MASS>  (1) 
+117.078978601
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+19
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.5328056142525044e-09
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.840100937582317
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+pentyl nitrite
+
+>  <ALOGPS_LOGP>  (1) 
+1.98
+
+>  <JCHEM_LOGP>  (1) 
+2.3125660403333335
+
+>  <ALOGPS_LOGS>  (1) 
+-1.47
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.8145129168936718
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.66
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.678600000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.97e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01612
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Amyl Nitrite
+
+>  <SYNONYMS>  (1) 
+1-nitropentane; Amyl Nitrite; n-Amyl nitrite; n-pentyl nitrite; Nitramyl; pentyl nitrite
+
+>  <PRODUCTS>  (1) 
+Amyl Nitrite; Amyl Nitrite Vitrellae Bpc Liq 0.33 Ml/cap; Amylnitrite Glass Cap 5min
+
+$$$$

@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    1.0745    0.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0733   -0.2093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7882   -0.6221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5046   -0.2088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5017    0.6216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7864    1.0308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2147    1.0368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7839    1.8559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3599    1.0303    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3586   -0.6212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3555   -0.2081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0703   -0.6201    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7844   -0.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4992   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7838    0.6179    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2134   -0.2059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4999   -1.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2147   -1.8559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  4  5  2  0
+  2 10  1  0
+  2  3  2  0
+ 10 11  1  0
+  5  6  1  0
+ 11 12  1  0
+  6  1  2  0
+ 12 13  1  0
+  1  2  1  0
+ 13 14  1  0
+  5  7  1  0
+ 13 15  2  0
+  3  4  1  0
+ 14 16  1  0
+  6  8  1  0
+ 14 17  1  0
+ 17 18  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB12783
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC(CO)C(=O)NNCC1=C(O)C(O)=C(O)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15N3O5/c11-6(4-14)10(18)13-12-3-5-1-2-7(15)9(17)8(5)16/h1-2,6,12,14-17H,3-4,11H2,(H,13,18)
+
+>  <INCHI_KEY>  (1) 
+BNQDCRGUHNALGH-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H15N3O5
+
+>  <MOLECULAR_WEIGHT>  (1) 
+257.246
+
+>  <EXACT_MASS>  (1) 
+257.101170595
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+33
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.493258707135112
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+7
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-3-hydroxy-N'-[(2,3,4-trihydroxyphenyl)methyl]propanehydrazide
+
+>  <ALOGPS_LOGP>  (1) 
+-2.27
+
+>  <JCHEM_LOGP>  (1) 
+-1.9020041327408348
+
+>  <ALOGPS_LOGS>  (1) 
+-1.70
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+10.742508035731095
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.657896949893226
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.475292091959801
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+148.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+73.2301
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.15e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+benserazide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB12783
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Benserazide
+
+>  <SYNONYMS>  (1) 
+benserazida; Benserazide; benserazidum
+
+>  <PRODUCTS>  (1) 
+Prolopa Cap 100-25; Prolopa Cap 200-50; Prolopa Cap 50-12.5
+
+>  <SALTS>  (1) 
+Benserazide hydrochloride
+
+$$$$

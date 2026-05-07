@@ -1,0 +1,142 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   -0.3561    0.4141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0683   -0.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3610    1.2426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0683   -0.8308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7805    0.4141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4927   -0.8308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3559    0.0072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2049   -1.2426    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7805   -1.2426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4927   -0.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0682    0.4190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7804    0.0072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4926    0.4287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2049    0.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  2  0
+  4  2  2  0
+  5  2  1  0
+  6 10  1  0
+  7  1  1  0
+  8  6  1  0
+  9  4  1  0
+ 10  5  2  0
+ 11  7  1  0
+ 12 11  1  0
+ 13 12  1  0
+ 14 13  1  0
+  9  6  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11148
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCOC(=O)C1=CC=C(N)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H15NO2/c1-2-3-8-14-11(13)9-4-6-10(12)7-5-9/h4-7H,2-3,8,12H2,1H3
+
+>  <INCHI_KEY>  (1) 
+IUWVALYLNVXWKX-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C11H15NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+193.246
+
+>  <EXACT_MASS>  (1) 
+193.110278727
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+29
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.963313915935288
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+butyl 4-aminobenzoate
+
+>  <ALOGPS_LOGP>  (1) 
+2.88
+
+>  <JCHEM_LOGP>  (1) 
+2.471695840666667
+
+>  <ALOGPS_LOGS>  (1) 
+-2.76
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.7610947055773134
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.657300000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.36e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+butamben
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11148
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Butamben
+
+>  <SYNONYMS>  (1) 
+Butamben; Butyl aminobenzoate
+
+>  <PRODUCTS>  (1) 
+Cetacaine Anesthetic; Cetacaine Liquid; Cetacaine Spray; Cetacaine Topical Anesthetic; Exactacain Topical Anesthetic; One Touch Advanced Topical Anesthetic Bubble Gum; One Touch Advanced Topical Anesthetic Cherry; One Touch Advanced Topical Anesthetic Gel Cool Mint; One Touch Advanced Topical Anesthetic Strawberry Ice
+
+>  <SALTS>  (1) 
+Butamben picrate
+
+$$$$

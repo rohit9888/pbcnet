@@ -1,0 +1,180 @@
+
+     RDKit          2D
+
+ 31 28  0  0  0  0  0  0  0  0999 V2000
+   -0.8415   -2.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1130   -1.6558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5406   -1.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8707   -2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5945   -2.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1130   -0.8352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2817   -2.0368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5406   -0.8018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229   -1.6977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5945   -2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9850   -1.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3025   -2.8700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229   -0.8687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0430   -2.1120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7135   -1.9990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8331    1.6265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1046    2.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5322    2.0743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8624    0.8017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6028    1.6265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1046    2.8658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2733    1.6641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5322    2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6028    0.8017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9766    2.0743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2942    0.8310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    2.8322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0514    1.5888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7051    1.7017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7135    0.0774    0.0000 Ca  0  0  0  0  0 15  0  0  0  0  0  0
+  9 14  1  0
+ 11 15  1  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  1
+  2  5  1  0
+  2  6  1  1
+  3  7  1  0
+  3  8  1  1
+  5  9  1  0
+  5 10  1  0
+  7 11  1  0
+  7 12  1  6
+  9 13  2  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  1
+ 17 20  1  0
+ 17 21  1  1
+ 18 22  1  0
+ 18 23  1  1
+ 20 24  1  0
+ 20 25  1  0
+ 22 26  1  0
+ 22 27  1  6
+ 24 28  2  0
+ 24 29  1  0
+ 26 30  1  0
+M  CHG  3  14  -1  29  -1  31   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB00326
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Ca++].OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)C([O-])=O.OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)C([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C7H14O8.Ca/c2*8-1-2(9)3(10)4(11)5(12)6(13)7(14)15;/h2*2-6,8-13H,1H2,(H,14,15);/q;;+2/p-2/t2*2-,3-,4+,5-,6?;/m11./s1
+
+>  <INCHI_KEY>  (1) 
+FATUQANACHZLRT-KMRXSBRUSA-L
+
+>  <FORMULA>  (1) 
+C14H26CaO16
+
+>  <MOLECULAR_WEIGHT>  (1) 
+490.425
+
+>  <EXACT_MASS>  (1) 
+490.084675939
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+57
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.340947433815025
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium bis((3R,4S,5R,6R)-2,3,4,5,6,7-hexahydroxyheptanoate)
+
+>  <ALOGPS_LOGP>  (1) 
+-1.91
+
+>  <JCHEM_LOGP>  (1) 
+-4.040079252666667
+
+>  <ALOGPS_LOGS>  (1) 
+-1.09
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.467210588266337
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.384685145485427
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9742118640167448
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+161.51
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+55.070600000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+12
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.98e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium gluceptate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00326
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00841
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Calcium glucoheptonate
+
+>  <SYNONYMS>  (1) 
+Calcii glucoheptonas; calcium (2ξ)-D-gluco-heptonate; calcium bis[(2ξ)-D-glycero-D-gulo-heptonate]; calcium bis[(2ξ)-D-glycero-D-ido-heptonate]; calcium bis[(3R,4S,5R,6R)-2,3,4,5,6,7-hexahydroxyheptanoate]; Calcium gluceptate; Calcium glucoheptonat; Calcium glucoheptonate; Calcium glucoheptonate (1:2); Glucoheptonate de calcium; Glucoheptonato calcico
+
+>  <PRODUCTS>  (1) 
+Calcium Liq Alsi; Calcium Liquid; Glucoheptonate; Liquid Calcium; Sirop De Calcium 625mg/5ml
+
+$$$$

@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   -0.9252   -3.6175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7537   -2.8106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3057   -2.1975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8932   -1.4830    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0862   -1.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5269   -1.1025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  2  0
+  2  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 12 17  1  0
+ 17 18  1  0
+ 14 19  1  0
+ 19 20  1  0
+ 19 21  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB17999
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1=C(CCCOC2=CC(=CC=C2F)C(O)=O)C(C)=NN1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H17FN2O3/c1-9-12(10(2)18-17-9)4-3-7-21-14-8-11(15(19)20)5-6-13(14)16/h5-6,8H,3-4,7H2,1-2H3,(H,17,18)(H,19,20)
+
+>  <INCHI_KEY>  (1) 
+WBFUHHBPNXWNCC-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C15H17FN2O3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+292.31
+
+>  <EXACT_MASS>  (1) 
+292.122320578
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+38
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9997421968951324
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.988704912666094
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-[3-(3,5-dimethyl-1H-pyrazol-4-yl)propoxy]-4-fluorobenzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.1373711276381595
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+16.39963335647013
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.270823557315277
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.6666181785831657
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+75.21000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.391
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+3-[3-(3,5-dimethyl-1H-pyrazol-4-yl)propoxy]-4-fluorobenzoic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB17999
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Acoramidis
+
+>  <SYNONYMS>  (1) 
+3-(3-(3,5-dimethyl-1h-pyrazol-4-yl)propoxy)-4-fluorobenzoic acid; Acoramidis
+
+>  <PRODUCTS>  (1) 
+Attruby; Beyonttra
+
+>  <SALTS>  (1) 
+Acoramidis hydrochloride
+
+$$$$

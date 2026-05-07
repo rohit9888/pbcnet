@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 12  9  0  0  0  0  0  0  0  0999 V2000
+   -0.2159    0.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5170   -0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9264   -0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2159    0.8318    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2027    0.0205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9264   -1.2426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6781   -0.0105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0161    1.2426    0.0000 Au  0  0  0  0  0  1  0  0  0  0  0  0
+    1.2027    0.8916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8810   -0.3403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0335   -0.9911    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+   -1.8810   -0.7908    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  3  6  2  0
+  3  7  1  0
+  4  8  1  0
+  5  9  2  0
+  5 10  1  0
+M  CHG  4   7  -1  10  -1  11   1  12   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09276
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Na+].[Na+].[O-]C(=O)CC(S[Au])C([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6O4S.Au.2Na/c5-3(6)1-2(9)4(7)8;;;/h2,9H,1H2,(H,5,6)(H,7,8);;;/q;3*+1/p-3
+
+>  <INCHI_KEY>  (1) 
+VXIHRIQNJCRFQX-UHFFFAOYSA-K
+
+>  <FORMULA>  (1) 
+C4H3AuNa2O4S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+390.07
+
+>  <EXACT_MASS>  (1) 
+389.921312
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+15
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.000673210139193851
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.653473229518124
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+disodium 2-(auriosulfanyl)butanedioate
+
+>  <ALOGPS_LOGP>  (1) 
+-0.60
+
+>  <JCHEM_LOGP>  (1) 
+-0.10509999999999987
+
+>  <ALOGPS_LOGS>  (1) 
+-1.00
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+4.79612669104299
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.1823613629272933
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.7783
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.88e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+gold sodium thiomalate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09276
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Sodium aurothiomalate
+
+>  <SYNONYMS>  (1) 
+Aurotiomalato sodico; Gold sodium thiomalate; Natrii aurothiomalas; Sodium aurothiomalate
+
+>  <PRODUCTS>  (1) 
+Myochrysine; Sodium Aurothiomalate Injection BP
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Myocrisin
+
+$$$$

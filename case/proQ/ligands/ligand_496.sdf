@@ -1,0 +1,82 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   -1.0716    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  8 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+  7 13  1  0
+ 13 14  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00629
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC(=N)N\N=C\C1=C(Cl)C=CC=C1Cl
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H8Cl2N4/c9-6-2-1-3-7(10)5(6)4-13-14-8(11)12/h1-4H,(H4,11,12,14)/b13-4+
+
+>  <INCHI_KEY>  (1) 
+WDZVGELJXXEGPV-YIXHJXPBSA-N
+
+>  <FORMULA>  (1) 
+C8H8Cl2N4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+231.08
+
+>  <EXACT_MASS>  (1) 
+230.0126017
+
+>  <DRUGBANK_ID>  (1) 
+DB00629
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00487
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Guanabenz
+
+>  <SYNONYMS>  (1) 
+[(2,6-Dichlorobenzylidene)amino]guanidine; 2-((2,6-DICHLOROPHENYL)METHYLENE)HYDRAZINECARBOXIMIDAMIDE; Guanabenz; Guanabenzo; Guanabenzum; HYDRAZINECARBOXIMIDAMIDE, 2-((2,6-DICHLOROPHENYL)METHYLENE)-; N-(2,6-DICHLOROBENZYLIDENE)-N'-AMIDINOHYDRAZINE
+
+>  <PRODUCTS>  (1) 
+Guanabenz Acetate
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lisapres; Rexitene; Wytens; Wytensin
+
+>  <SALTS>  (1) 
+Guanabenz Acetate
+
+$$$$

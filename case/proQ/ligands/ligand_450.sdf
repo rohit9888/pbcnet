@@ -1,0 +1,169 @@
+580
+     RDKit          2D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+    3.1021   -1.7444    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896    2.8251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9271   -1.7444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2771   -1.7444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5146    2.8251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -2.5694    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    1.5556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    0.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695    2.0406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    2.0406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -0.9194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    0.3181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876    0.3181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5541    1.7856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -0.5069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.5069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.7856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1672    2.3376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7257    0.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9518    2.0827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5103    0.7237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1234    1.2757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  4  2  0
+  1  6  1  0
+  1 11  1  0
+  2  5  1  0
+  2 10  1  0
+  5  9  2  0
+  7  8  1  0
+  7  9  1  0
+  7 10  2  0
+  8 12  2  0
+  8 13  1  0
+  9 14  1  0
+ 10 17  1  0
+ 11 15  2  0
+ 11 16  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 14 18  2  0
+ 14 19  1  0
+ 18 20  1  0
+ 19 21  2  0
+ 20 22  2  0
+ 21 22  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00580
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H14N2O3S/c1-11-15(12-7-9-14(10-8-12)22(17,19)20)16(18-21-11)13-5-3-2-4-6-13/h2-10H,1H3,(H2,17,19,20)
+
+>  <INCHI_KEY>  (1) 
+LNPDTQAFDNKSHK-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C16H14N2O3S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+314.359
+
+>  <EXACT_MASS>  (1) 
+314.072513014
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+36
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.0008748844150503294
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.76425043343253
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-(5-methyl-3-phenyl-1,2-oxazol-4-yl)benzene-1-sulfonamide
+
+>  <ALOGPS_LOGP>  (1) 
+3.32
+
+>  <JCHEM_LOGP>  (1) 
+2.8236843580000004
+
+>  <ALOGPS_LOGS>  (1) 
+-3.96
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.057539239950989
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.4178232092924187
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.70800000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.48e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00580
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00183; DB07576
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Valdecoxib
+
+>  <SYNONYMS>  (1) 
+Valdecoxib
+
+>  <PRODUCTS>  (1) 
+Bextra
+
+$$$$

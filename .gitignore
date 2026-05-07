@@ -11,10 +11,7 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 
-# Project Generated Data (proQ)
-case/proQ/ligands/
-case/proQ/pocket.pdb
-case/proQ/predict.csv
+
 
 # Session Helper Scripts
 check_ligands.py

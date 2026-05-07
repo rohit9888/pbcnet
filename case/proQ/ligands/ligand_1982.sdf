@@ -1,0 +1,146 @@
+
+     RDKit          2D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    1.7861    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.0312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  2  0
+  2  1  1  0
+ 10  1  1  0
+  2 13  1  6
+  3  2  1  0
+  3  7  1  6
+  4  3  1  0
+  4  8  1  6
+  5  4  1  0
+  5  9  1  1
+ 11  5  1  0
+ 11 12  1  0
+M  ISO  1  13  18
+M  END
+>  <DATABASE_ID>  (1) 
+DB09502
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H]C(=O)[C@H]([18F])[C@@H](O)[C@H](O)[C@H](O)CO
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H11FO5/c7-3(1-8)5(11)6(12)4(10)2-9/h1,3-6,9-12H,2H2/t3-,4+,5+,6+/m0/s1/i7-1
+
+>  <INCHI_KEY>  (1) 
+AOYNUTHNTBLRMT-MXWOLSILSA-N
+
+>  <FORMULA>  (1) 
+C6H11FO5
+
+>  <MOLECULAR_WEIGHT>  (1) 
+181.15
+
+>  <EXACT_MASS>  (1) 
+181.061586121
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.53708929322334
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,4R,5R)-2-(¹⁸F)fluoro-3,4,5,6-tetrahydroxyhexanal
+
+>  <ALOGPS_LOGP>  (1) 
+-1.84
+
+>  <JCHEM_LOGP>  (1) 
+-2.6772687889999998
+
+>  <ALOGPS_LOGS>  (1) 
+-0.12
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.464156964478391
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.318442418429404
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9742258034472613
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+97.99000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.6535
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.39e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(2R,3S,4R,5R)-2-(¹⁸F)fluoro-3,4,5,6-tetrahydroxyhexanal
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09502
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09150
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Fludeoxyglucose (18F)
+
+>  <SYNONYMS>  (1) 
+(18F)-FDG; 18-F FDG; 18F-FDG; 18F-Fluorodeoxyglucose; Fludeoxyglucose (18F); Fludeoxyglucose F 18; Fludeoxyglucose F-18; Fludeoxyglucose F18; Fludeoxyglucose, F-18; Fluorine (18F) fludeoxyglucose; Fluorine-18 2-Fluoro-2-deoxy-D-Glucose
+
+>  <PRODUCTS>  (1) 
+Fludeoxyglucose F 18; Fludeoxyglucose F-18; Fludeoxyglucose F18
+
+$$$$

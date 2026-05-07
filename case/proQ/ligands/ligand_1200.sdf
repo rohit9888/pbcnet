@@ -1,0 +1,144 @@
+1556
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    2.3645   -2.3183    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    2.1087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    0.6798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  7  8  2  0
+  7  9  1  0
+  8 10  1  0
+  9 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01556
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(C)(N)CC1=CC=C(Cl)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14ClN/c1-10(2,12)7-8-3-5-9(11)6-4-8/h3-6H,7,12H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ZCKAMNXUHHNZLN-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H14ClN
+
+>  <MOLECULAR_WEIGHT>  (1) 
+183.678
+
+>  <EXACT_MASS>  (1) 
+183.08147716
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+26
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9994209735227751
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.194532708780955
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-(4-chlorophenyl)-2-methylpropan-2-amine
+
+>  <ALOGPS_LOGP>  (1) 
+2.81
+
+>  <JCHEM_LOGP>  (1) 
+2.688871826333333
+
+>  <ALOGPS_LOGS>  (1) 
+-3.24
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.237050035938479
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+26.02
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+53.14820000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.05e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01556
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Chlorphentermine
+
+>  <SYNONYMS>  (1) 
+4-Chloro-a,a-dimethylbenzeneethanamine; 4-Chloro-a,a-dimethylphenethylamine; a,a-Dimethyl-p-chlorophenethylamine; Chlorphentermine; Chlorphenterminum; Clorfentermina
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Apsedon; Desopimon; Lucofen
+
+>  <SALTS>  (1) 
+Chlorphentermine hydrochloride
+
+$$$$

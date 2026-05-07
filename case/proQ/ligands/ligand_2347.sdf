@@ -1,0 +1,107 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+   19.5814  -17.2259    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB12754
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[I-]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/HI/h1H/p-1
+
+>  <INCHI_KEY>  (1) 
+XMBWDFGMSWQBCA-UHFFFAOYSA-M
+
+>  <FORMULA>  (1) 
+I
+
+>  <MOLECULAR_WEIGHT>  (1) 
+126.9045
+
+>  <EXACT_MASS>  (1) 
+126.90446842
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.07487188
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+iodide
+
+>  <JCHEM_LOGP>  (1) 
+1.02055578
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-8.999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.9462
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB12754
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Iodide
+
+>  <SYNONYMS>  (1) 
+Iodide; Iodide ion
+
+$$$$

@@ -1,0 +1,164 @@
+
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+   -3.2136   -1.0978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995   -0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3620    1.3894    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0712    0.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995    0.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7853   -1.0978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6314   -1.8072    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9326   -0.6849    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8056   -1.8072    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0712   -0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7853    0.5586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3522    1.8024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4995    1.3991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0712    1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2185    0.1603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    0.1506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7804    1.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5044    0.5732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9326    0.5781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0712    0.5683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7902    0.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  5  1  0
+  4  3  2  0
+  5 11  1  0
+  6  2  2  0
+  7  2  1  0
+  8  1  1  0
+  9  1  1  0
+ 10  1  1  0
+ 11  7  2  0
+ 12  6  1  0
+ 13  4  1  0
+ 14 18  1  0
+ 15 13  1  0
+ 16 19  1  0
+ 17  3  1  0
+ 18 15  1  0
+ 19 22  1  0
+ 20 16  1  0
+ 21 17  1  0
+ 22 21  1  0
+ 12  5  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00176
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COCCCC\C(=N/OCCN)C1=CC=C(C=C1)C(F)(F)F
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H21F3N2O2/c1-21-10-3-2-4-14(20-22-11-9-19)12-5-7-13(8-6-12)15(16,17)18/h5-8H,2-4,9-11,19H2,1H3/b20-14+
+
+>  <INCHI_KEY>  (1) 
+CJOFXWAVKWHTFT-XSFVSMFZSA-N
+
+>  <FORMULA>  (1) 
+C15H21F3N2O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+318.34
+
+>  <EXACT_MASS>  (1) 
+318.155512413
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+43
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.43969539227251
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(E)-(2-aminoethoxy)({5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene})amine
+
+>  <ALOGPS_LOGP>  (1) 
+2.89
+
+>  <JCHEM_LOGP>  (1) 
+2.7953195803333326
+
+>  <ALOGPS_LOGS>  (1) 
+-4.64
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.863029671335692
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+56.84
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+79.19710000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.34e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fluvoxamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00176
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00425
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Fluvoxamine
+
+>  <SYNONYMS>  (1) 
+Fluvoxamina; Fluvoxamine; Fluvoxaminum
+
+>  <PRODUCTS>  (1) 
+Apo-fluvoxamine; Ava-fluvoxamine; Bci Fluvoxamine Tablets; Dom-fluvoxamine; Fluvoxamine; Fluvoxamine Maleate; Fluvoxamine Tablets; Fluvoxamine maleate; Fluvoxamine-100; Fluvoxamine-50; Gen-fluvoxamine 100mg; Gen-fluvoxamine 50mg; Luvox; Luvox CR; Novo-fluvoxamine; PHL-fluvoxamine; PMS-fluvoxamine; Ratio-fluvoxamine; Riva-fluvox; Riva-fluvox 100mg Tablets; Riva-fluvox 50mg Tablets; Sandoz Fluvoxamine; Teva-fluvoxamine
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dumirox; Faverin; Fevarin; Floxyfral; Maveral
+
+>  <SALTS>  (1) 
+Fluvoxamine maleate
+
+$$$$

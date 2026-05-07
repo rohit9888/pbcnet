@@ -1,0 +1,146 @@
+
+     RDKit          2D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  2  0
+  5 10  1  0
+ 10 11  1  0
+ 10 12  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB16956
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(C)C[C@H](NC(C)=O)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H15NO3/c1-5(2)4-7(8(11)12)9-6(3)10/h5,7H,4H2,1-3H3,(H,9,10)(H,11,12)/t7-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WXNXCEHXYPACJF-ZETCQYMHSA-N
+
+>  <FORMULA>  (1) 
+C8H15NO3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+173.212
+
+>  <EXACT_MASS>  (1) 
+173.105193347
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.9984111937646862
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.074229449409145
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-acetamido-4-methylpentanoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+0.78
+
+>  <JCHEM_LOGP>  (1) 
+0.4942454446666666
+
+>  <ALOGPS_LOGS>  (1) 
+-1.20
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+15.926251046208597
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.201761860375146
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.800681023009356
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.4
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.614700000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.09e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB16956
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+L-Acetylleucine
+
+>  <SYNONYMS>  (1) 
+(s)-2-acetamido-4-methylpentanoic acid; Acetyl-l-leucine; Acetylleucine, (s)-; Acetylleucine, l-; L-leucine, n-acetyl-; Leucine, n-acetyl-, l-; N-acetyl leucine; N-acetyl-l-(-)-leucine; N-acetyl-l-leucine; N-Acetyl-Leucine; N-acetylleucine
+
+>  <PRODUCTS>  (1) 
+Aqneursa; Brand name
+
+$$$$

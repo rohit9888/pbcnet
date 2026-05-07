@@ -1,0 +1,64 @@
+
+     RDKit          2D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  2  8  1  0
+  8  9  1  0
+M  CHG  2   8   1   9  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB18756
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC1=CC=NC(N)=[N+]1[O-]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6N4O/c5-3-1-2-7-4(6)8(3)9/h1-2H,5H2,(H2,6,7)
+
+>  <INCHI_KEY>  (1) 
+SGHQFNHCCOBUKB-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C4H6N4O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+126.119
+
+>  <EXACT_MASS>  (1) 
+126.054160829
+
+>  <DRUGBANK_ID>  (1) 
+DB18756
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Diaminopyrimidine oxide
+
+>  <SYNONYMS>  (1) 
+2,4-diaminopyrimidine 3-n-oxide; 2,4-pyrimidinediamine, 3-oxide; Aminexil; Diaminopyrimidine oxide; Kopexil; Mexoryl sag
+
+>  <PRODUCTS>  (1) 
+Minoxidil Hair Growth Foam
+
+$$$$

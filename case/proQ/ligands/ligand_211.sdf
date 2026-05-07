@@ -1,0 +1,150 @@
+
+     RDKit          2D
+
+ 14 13  0  0  1  0  0  0  0  0999 V2000
+    9.6691   -8.1682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010   -8.5711    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1080   -9.8373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010   -6.9211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8103   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3789   -8.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2493   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9400   -8.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8103   -7.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3789   -9.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0621   -8.5711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1080   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3522   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8227   -8.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  0
+  8  1  1  0
+  7  2  1  0
+  5  2  1  0
+ 10  3  1  0
+  9  4  1  0
+  5  9  1  1
+ 11  5  1  0
+  6 10  1  1
+ 12  6  1  0
+  8  7  1  0
+ 13 11  1  0
+ 12 14  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00330
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC[C@@H](CO)NCCN[C@@H](CC)CO
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H24N2O2/c1-3-9(7-13)11-5-6-12-10(4-2)8-14/h9-14H,3-8H2,1-2H3/t9-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AEUTYOVWOVBAKS-UWVGGRQHSA-N
+
+>  <FORMULA>  (1) 
+C10H24N2O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+204.3098
+
+>  <EXACT_MASS>  (1) 
+204.183778022
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+38
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.3116712514179008
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.46924534542036
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-[(2-{[(2S)-1-hydroxybutan-2-yl]amino}ethyl)amino]butan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+-0.059291071333333153
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+15.421967964187898
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.819909118674012
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.551704261347783
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+64.52
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+57.888000000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+disodium dexamethasone phosphate(2-)
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00330
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00957
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ethambutol
+
+>  <SYNONYMS>  (1) 
+(+)-2,2'-(ethylenediimino)di-1-butanol; (+)-ethambutol; (+)-N,N'-bis(1-(hydroxymethyl)propyl)ethylenediamine; (+)-S,S-ethambutol; (2S,7S)-2,7-diethyl-3,6-diazaoctane-1,8-diol; (S,S)-ethambutol; EMB; Etambutol; Etambutolo; Ethambutol; Ethambutolum; S,S-Ethambutol
+
+>  <PRODUCTS>  (1) 
+Ethambutol; Ethambutol Hydrochloride; Etibi; Myambutol; Myambutol Tab 100mg; Myambutol Tab 400mg; Myambutol Tablets - 400 mg
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Etibi; Tibutol
+
+>  <SALTS>  (1) 
+Ethambutol hydrochloride
+
+$$$$

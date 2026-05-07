@@ -1,0 +1,110 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -0.7101   -0.2242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7101   -0.1644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0164    0.2242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  3  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09112
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+ON=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/HNO2/c2-1-3/h(H,2,3)
+
+>  <INCHI_KEY>  (1) 
+IOVCWXUNBOPUCH-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+HNO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+47.0134
+
+>  <EXACT_MASS>  (1) 
+47.000728281
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.8096222239433186
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+nitrous acid
+
+>  <JCHEM_LOGP>  (1) 
+0.166137638
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.46791021358391
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.660000000000004
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+8.7217
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitrous acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09112
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Nitrous acid
+
+>  <SYNONYMS>  (1) 
+dioxonitric acid; hydroxidooxidonitrogen; nitrosyl hydroxide; Nitrous acid
+
+>  <PRODUCTS>  (1) 
+CVS Pharmacy Enamel Guard; Nithiodote; Rite Aid Enamel Guard; Sodium Nitrite; Sodium Nitrite Injection, USP; Wakefern Enamel Guard
+
+>  <SALTS>  (1) 
+Potassium nitrite; Sodium nitrite
+
+$$$$

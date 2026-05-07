@@ -1,0 +1,164 @@
+[NO NAME]
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+ 16  2  1  0
+  9  3  2  0
+  3  4  1  0
+  4  1  1  0
+  6  4  2  0
+  2  5  2  0
+  5 12  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+ 12 10  2  0
+ 10 11  1  0
+ 16 11  2  0
+ 12 14  1  0
+ 14 13  1  0
+ 14 15  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 20  2  0
+ 18 21  1  0
+ 18 19  2  0
+M  CHG  2  13  -1  14   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB04743
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CS(=O)(=O)NC1=C(OC2=CC=CC=C2)C=C(C=C1)[N+]([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H12N2O5S/c1-21(18,19)14-12-8-7-10(15(16)17)9-13(12)20-11-5-3-2-4-6-11/h2-9,14H,1H3
+
+>  <INCHI_KEY>  (1) 
+HYWYRSMBCFDLJT-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C13H12N2O5S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+308.31
+
+>  <EXACT_MASS>  (1) 
+308.046692194
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+33
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.6674513616059308
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.92995966929087
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-(4-nitro-2-phenoxyphenyl)methanesulfonamide
+
+>  <ALOGPS_LOGP>  (1) 
+2.56
+
+>  <JCHEM_LOGP>  (1) 
+1.7866563706666665
+
+>  <ALOGPS_LOGS>  (1) 
+-4.23
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.69743555098183
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.727156867633577
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.53999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+75.3025
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.82e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB04743
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Nimesulide
+
+>  <SYNONYMS>  (1) 
+Nimesulida; Nimesulide; Nimesulidum
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ainex; Aulin; Eskaflam; Mesulid; Nilsid; Nimalox; Nise; Sulide
+
+$$$$

@@ -1,0 +1,121 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+   -0.2435   -0.7033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2435    0.1216    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5814    0.1216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2435    0.9466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0685    0.1216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2237   -0.9466    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.2237   -0.7967    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  2  3  1  0
+  2  4  2  0
+  2  5  1  0
+  1  2  1  0
+M  CHG  4   3  -1   5  -1   6   1   7   1
+M  ISO  1   2  32
+M  END
+>  <DATABASE_ID>  (1) 
+DB09370
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Na+].[Na+].O[32P]([O-])([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2Na.H3O4P/c;;1-5(2,3)4/h;;(H3,1,2,3,4)/q2*+1;/p-2/i;;5+1
+
+>  <INCHI_KEY>  (1) 
+BNIILDVGGAEEIG-JCIGTKTHSA-L
+
+>  <FORMULA>  (1) 
+HNa2O4P
+
+>  <MOLECULAR_WEIGHT>  (1) 
+142.957
+
+>  <EXACT_MASS>  (1) 
+142.94092924
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.6909402832708205
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.241595427037025
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+disodium hydrogen (32P)phosphate
+
+>  <JCHEM_LOGP>  (1) 
+-1.0201038226666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.951626889535468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.796126134018132
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.42
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+12.4085
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+rabeximod
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09370
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Sodium phosphate P 32
+
+>  <SYNONYMS>  (1) 
+Disodium hydrogen phosphate (32P); Sodium phosphate (32P); Sodium phosphate 32P; Sodium phosphate P 32; Sodium phosphate P-32
+
+$$$$

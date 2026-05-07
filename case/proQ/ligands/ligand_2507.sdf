@@ -1,0 +1,135 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -1.4279   -0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7139    0.4070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7139    0.4113    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4279    0.0020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7180   -0.4113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7139   -0.4155    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7222   -1.2379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7121    1.2379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  1  0
+  2  3  1  0
+  3  6  1  0
+  1  2  1  0
+  3  7  1  0
+  3  4  1  0
+  6  8  1  0
+  4  9  2  0
+M  CHG  2   4   1   5  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB13960
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+OCC(Br)(CO)[N+]([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H6BrNO4/c4-3(1-6,2-7)5(8)9/h6-7H,1-2H2
+
+>  <INCHI_KEY>  (1) 
+LVDKZNITIUWNER-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C3H6BrNO4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+199.988
+
+>  <EXACT_MASS>  (1) 
+198.948020332
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+15
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.172889510746417
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-bromo-2-nitropropane-1,3-diol
+
+>  <ALOGPS_LOGP>  (1) 
+-0.21
+
+>  <JCHEM_LOGP>  (1) 
+-0.18574076399999992
+
+>  <ALOGPS_LOGS>  (1) 
+-1.19
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.265651402507846
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.552130642868114
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.737827536706061
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.6597
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.28e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bronopol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB13960
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Bronopol
+
+>  <SYNONYMS>  (1) 
+2-Bromo-2-nitropropane-1,3-diol; 2-Nitro-2-bromo-1,3-propanediol; beta-Bromo-beta-nitrotrimethyleneglycol; Bronopol; Bronopolu; Bronopolum
+
+>  <PRODUCTS>  (1) 
+75% Alcohol Wipes; Aiweier Alcohol Wipes; Aiweier Disinfecttant Wipes; Alcohol wipes; Anti-Bacterial Multi-Purpose Cleaning Wipes; Antibacterial Wet Wipes; Antiseptic Hand Soap; Disinfectant Wet Wipes; Edens Hand Sanitizing Wipes; Hand Sanitizing Wipes; Michaels Antiseptic Hand Soap; Purgerm 75% alcohol wipes; T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

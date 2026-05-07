@@ -1,0 +1,100 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 B   0  0  0  0  0 15  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11203
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[B]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/B
+
+>  <INCHI_KEY>  (1) 
+ZOXJGFHDIHLPTG-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+B
+
+>  <MOLECULAR_WEIGHT>  (1) 
+10.81
+
+>  <EXACT_MASS>  (1) 
+11.009305
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+boranylidyne
+
+>  <JCHEM_LOGP>  (1) 
+0.3308
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+boranylidyne
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11203
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Boron
+
+>  <SYNONYMS>  (1) 
+Bor; Boracium; Bore; Boro; Boron
+
+>  <PRODUCTS>  (1) 
+Calcemin; Calcemin Silver; Calcium Folic Acid Plus D Chewable; Finazol; Foliflex; Folitin-Z; Neonatal Plus Vitamin; Neonatal Vitamin; Prenate Chewable; Prenatvite; Prenatvite Plus; Ribotin-E; Zintrexyl-C
+
+$$$$

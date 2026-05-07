@@ -1,0 +1,164 @@
+
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7157   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  1 17  1  0
+  1  2  1  0
+  1  3  1  0
+  3 13  1  0
+  4  3  2  0
+ 19  4  1  0
+  5  4  1  0
+  6  5  1  0
+  2  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 14  8  1  0
+ 10  9  2  0
+ 11 10  1  0
+ 12 11  2  0
+ 18 12  1  0
+ 15 12  1  0
+ 13 18  2  0
+  7 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00982
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C\C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H28O2/c1-15(8-6-9-16(2)14-19(21)22)11-12-18-17(3)10-7-13-20(18,4)5/h6,8-9,11-12,14H,7,10,13H2,1-5H3,(H,21,22)/b9-6+,12-11+,15-8+,16-14-
+
+>  <INCHI_KEY>  (1) 
+SHGAZHPCJJPHSC-XFYACQKRSA-N
+
+>  <FORMULA>  (1) 
+C20H28O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+300.4351
+
+>  <EXACT_MASS>  (1) 
+300.20893014
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+50
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.9943172524888088
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.151983823599814
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2Z,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+5.66
+
+>  <JCHEM_LOGP>  (1) 
+5.014367711
+
+>  <ALOGPS_LOGS>  (1) 
+-4.80
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.757033385475081
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.79079999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.77e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB00982
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00140
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Isotretinoin
+
+>  <SYNONYMS>  (1) 
+(7E,9E,11E,13Z)-retinoic acid; 13 cis retinoic acid; 13-cis retinoic acid; 13-cis-retinoic acid; 13-cis-Vitamin A acid; 13-cRA; 13-RA; cis-RA; Isotretinoin; Isotretinoína; Isotrétinoine; Isotretinoino; Isotretinoinum; Neovitamin A acid
+
+>  <PRODUCTS>  (1) 
+Absorica; Absorica LD; Accutane; Accutane Roche; Amnesteem; Claravis; Clarus; Epuris; Isotretinoin; Isotrex Gel 0.05%; Myorisan; Ran-isotretinoin; Sotret; Zenatane
+
+$$$$

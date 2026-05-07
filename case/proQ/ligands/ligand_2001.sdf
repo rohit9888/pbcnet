@@ -1,0 +1,175 @@
+
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+   -1.4011    0.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6901    0.0367    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1540    0.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4011    1.2915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0208    0.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7318    0.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4847    0.4549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7318   -0.7998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1958    0.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9069    0.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1958   -0.7998    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6179    0.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3289    0.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6179   -0.7998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8651    0.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5761    0.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5761   -0.7998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8651   -1.2181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1540   -0.7998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4011   -1.2599    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3289    0.4549    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5191   -1.2915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8726   -1.2915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  7  9  1  0
+  9 10  1  1
+  9 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+  3 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+  3 19  1  0
+ 19 20  1  0
+ 16 21  1  0
+ 11 22  1  0
+ 11 23  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09570
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(C)C[C@H](NC(=O)CNC(=O)C1=CC(Cl)=CC=C1Cl)B(O)O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H19BCl2N2O4/c1-8(2)5-12(15(22)23)19-13(20)7-18-14(21)10-6-9(16)3-4-11(10)17/h3-4,6,8,12,22-23H,5,7H2,1-2H3,(H,18,21)(H,19,20)/t12-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+MXAYKZJJDUDWDS-LBPRGKRZSA-N
+
+>  <FORMULA>  (1) 
+C14H19BCl2N2O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+361.03
+
+>  <EXACT_MASS>  (1) 
+360.081492
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+42
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.02225169784972777
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.30096955946018
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[(1R)-1-{2-[(2,5-dichlorophenyl)formamido]acetamido}-3-methylbutyl]boronic acid
+
+>  <ALOGPS_LOGP>  (1) 
+2.06
+
+>  <JCHEM_LOGP>  (1) 
+2.5677000000000003
+
+>  <ALOGPS_LOGS>  (1) 
+-4.47
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.795927038323295
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.642927690419658
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.8156028124347534
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.66000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.55629999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.24e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fidaxomicin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09570
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ixazomib
+
+>  <SYNONYMS>  (1) 
+((1R)-1-((2,5-DICHLOROBENZAMIDO)ACETAMIDO)-3-METHYLBUTYL)BORONIC ACID; 2-[(1R)-1-[[2-[(2,5-dichlorobenzoyl)amino]acetyl]amino]-3-methylbutyl]-5-oxo-1,3,2-dioxaborolane-4,4-diacetic acid; BORONIC ACID, B-((1R)-1-((2-((2,5-DICHLOROBENZOYL)AMINO)ACETYL)AMINO)-3-METHYLBUTYL)-; Ixazomib
+
+>  <PRODUCTS>  (1) 
+Ninlaro
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ninlaro
+
+>  <SALTS>  (1) 
+Ixazomib citrate
+
+$$$$

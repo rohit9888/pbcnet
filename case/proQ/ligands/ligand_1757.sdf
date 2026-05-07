@@ -1,0 +1,167 @@
+
+     RDKit          2D
+
+ 26 27  0  0  0  0  0  0  0  0999 V2000
+   -2.1434    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2539    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6039    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  0
+ 10  8  2  0
+ 11  9  1  0
+ 16  2  1  0
+ 16 12  1  0
+ 16 13  1  0
+ 17  3  1  0
+ 17 14  1  0
+ 18  4  1  0
+ 18 15  1  0
+ 19  8  1  0
+ 19  9  2  0
+ 19 12  1  0
+ 20 10  1  0
+ 20 11  2  0
+ 21  5  1  0
+ 21  6  1  0
+ 21  7  1  0
+ 21 20  1  0
+ 22 13  1  0
+ 22 14  1  0
+ 22 15  1  0
+ 23 17  1  0
+ 23 18  1  0
+ 24 16  1  0
+ 17 25  1  6
+ 18 26  1  6
+M  END
+>  <DATABASE_ID>  (1) 
+DB09056
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H]C(C)(CN1C[C@]([H])(C)O[C@]([H])(C)C1)CC1=CC=C(C=C1)C(C)(C)CC
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H35NO/c1-7-21(5,6)20-10-8-19(9-11-20)12-16(2)13-22-14-17(3)23-18(4)15-22/h8-11,16-18H,7,12-15H2,1-6H3/t16?,17-,18+
+
+>  <INCHI_KEY>  (1) 
+MQHLMHIZUIDKOO-AYHJJNSGSA-N
+
+>  <FORMULA>  (1) 
+C21H35NO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+317.517
+
+>  <EXACT_MASS>  (1) 
+317.271864751
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+58
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+40.22982056877301
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,6S)-2,6-dimethyl-4-(2-{[4-(2-methylbutan-2-yl)phenyl]methyl}propyl)morpholine
+
+>  <ALOGPS_LOGP>  (1) 
+5.44
+
+>  <JCHEM_LOGP>  (1) 
+5.617119812666667
+
+>  <ALOGPS_LOGS>  (1) 
+-5.61
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.490758527201018
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+99.60729999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.85e-04 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(2R,6S)-2,6-dimethyl-4-(2-{[4-(2-methylbutan-2-yl)phenyl]methyl}propyl)morpholine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB09056
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Amorolfine
+
+>  <SYNONYMS>  (1) 
+Amorolfin; Amorolfina; Amorolfine
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Curanail; Loceryl; Locetar; Odenil
+
+>  <SALTS>  (1) 
+Amorolfine hydrochloride
+
+$$$$

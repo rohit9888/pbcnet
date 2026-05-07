@@ -1,0 +1,162 @@
+1074
+     RDKit          2D
+
+ 20 22  0  0  1  0  0  0  0  0999 V2000
+    5.9370   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 19  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  3  6  1  0
+  3  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5 10  1  0
+  6 11  1  0
+  7 12  1  0
+  8 13  1  0
+  9 14  1  0
+ 10 17  1  0
+ 11 15  1  0
+ 12 15  1  0
+ 13 16  1  0
+ 14 16  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 19 20  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01074
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C(C(C1CCCCC1)C1CCCCC1)C1CCCCN1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H35N/c1-3-9-16(10-4-1)19(17-11-5-2-6-12-17)15-18-13-7-8-14-20-18/h16-20H,1-15H2
+
+>  <INCHI_KEY>  (1) 
+CYXKNKQEMFBLER-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C19H35N
+
+>  <MOLECULAR_WEIGHT>  (1) 
+277.4879
+
+>  <EXACT_MASS>  (1) 
+277.276950125
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+55
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9997366501817181
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.2110195976158
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2,2-dicyclohexylethyl)piperidine
+
+>  <ALOGPS_LOGP>  (1) 
+5.87
+
+>  <JCHEM_LOGP>  (1) 
+5.531308548333334
+
+>  <ALOGPS_LOGS>  (1) 
+-7.01
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.57935259054534
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.03
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+87.22859999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.72e-05 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01074
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00107
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Perhexiline
+
+>  <SYNONYMS>  (1) 
+Perhexilene; Perhexilina; Perhexiline; Perhexilinum
+
+>  <SALTS>  (1) 
+Perhexiline maleate
+
+$$$$

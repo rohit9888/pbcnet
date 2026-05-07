@@ -1,0 +1,175 @@
+
+     RDKit          2D
+
+ 29 28  0  0  0  0  0  0  0  0999 V2000
+   -2.2755    2.1149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610    2.5275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8465    2.1149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8465    1.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610    0.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2755    1.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610    0.0524    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1320    2.5275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5823    2.1149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2968    2.5275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0113    2.1149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2968    3.3525    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1068    0.3742    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9318    0.3742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1124    1.1991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1068   -0.4507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2818    0.3742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2755   -1.5233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610   -1.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8465   -1.5233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8465   -2.3484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610   -2.7608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2755   -2.3484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5610   -3.5858    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1320   -1.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5823   -1.5233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2968   -1.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0113   -1.5233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2968   -0.2858    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  5  6  1  0
+  6  1  2  0
+  1  2  1  0
+  5  7  1  0
+  3  8  1  0
+  2  3  2  0
+  8  9  1  0
+  9 10  1  0
+  3  4  1  0
+ 10 11  1  0
+ 10 12  2  0
+  4  5  2  0
+ 13 14  1  0
+ 13 15  2  0
+ 13 16  2  0
+ 13 17  1  0
+ 23 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 25  1  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 22 24  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 29  2  0
+M  ISO  2   7 123  24 123
+M  END
+>  <DATABASE_ID>  (1) 
+DB09546
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+OS(O)(=O)=O.NC(=N)NCC1=CC([123I])=CC=C1.NC(=N)NCC1=CC([123I])=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C8H10IN3.H2O4S/c2*9-7-3-1-2-6(4-7)5-12-8(10)11;1-5(2,3)4/h2*1-4H,5H2,(H4,10,11,12);(H2,1,2,3,4)/i2*9-4;
+
+>  <INCHI_KEY>  (1) 
+XNACDNPGABUBFR-FKNPGSCZSA-N
+
+>  <FORMULA>  (1) 
+C16H22I2N6O4S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+640.26
+
+>  <EXACT_MASS>  (1) 
+639.953520274
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+51
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9999820823702288
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.905396396228344
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+bis(N-{[3-(¹²³I)iodophenyl]methyl}guanidine); sulfuric acid
+
+>  <ALOGPS_LOGP>  (1) 
+1.42
+
+>  <JCHEM_LOGP>  (1) 
+1.6941879796666663
+
+>  <ALOGPS_LOGS>  (1) 
+-3.44
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+11.746651842565164
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+61.9
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.60849999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.00e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fidaxomicin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09546
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Iobenguane sulfate I-123
+
+>  <SYNONYMS>  (1) 
+Iobenguane sulfate I 123; Iobenguane sulfate I-123
+
+>  <PRODUCTS>  (1) 
+i 123 MIBG meta iodobenzylguanidine
+
+$$$$

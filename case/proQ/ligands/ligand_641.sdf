@@ -1,0 +1,146 @@
+780
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    3.0790    1.3942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.8067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.3182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  3  4  1  0
+  3  5  1  0
+  4  6  2  0
+  4  7  1  0
+  6  8  1  0
+  7  9  2  0
+  8 10  2  0
+  9 10  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00780
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NNCCC1=CC=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H12N2/c9-10-7-6-8-4-2-1-3-5-8/h1-5,10H,6-7,9H2
+
+>  <INCHI_KEY>  (1) 
+RMUCZJUITONUFY-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C8H12N2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+136.1943
+
+>  <EXACT_MASS>  (1) 
+136.100048394
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+22
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.035676198593798336
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.804918186326967
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2-phenylethyl)hydrazine
+
+>  <ALOGPS_LOGP>  (1) 
+1.20
+
+>  <JCHEM_LOGP>  (1) 
+1.2030200426666668
+
+>  <ALOGPS_LOGS>  (1) 
+-1.09
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.552264894779207
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.05
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.263300000000015
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.11e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB00780
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00099
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Phenelzine
+
+>  <SYNONYMS>  (1) 
+Fenelzina; Phenelzin; Phenelzine; Phénelzine; Phenelzinum
+
+>  <PRODUCTS>  (1) 
+Greenstone Brand Phenelzine Sulfate; Nardil; Nardil Phenelzine Sulfate; Phenelzine Sulfate
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Margyl; Nardelzine
+
+>  <SALTS>  (1) 
+Phenelzine sulfate
+
+$$$$

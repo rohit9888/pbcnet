@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    1.2225   -2.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0497   -2.1451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4688   -1.4341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8161   -1.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2314   -0.7097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0582   -0.7161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4753   -0.0045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0668    0.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2369    0.7163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8235    0.0041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8264    1.4319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2406    2.1451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0087   -1.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4171   -0.6998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2420   -0.6952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6503    0.0214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4753    0.0263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2338    0.7334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  8  9  2  0
+  4  1  2  0
+  9 10  1  0
+ 10  5  2  0
+  9 11  1  0
+  2  3  2  0
+ 11 12  1  0
+  5  6  1  0
+  4 13  1  0
+  3  6  1  0
+ 13 14  1  0
+  6  7  2  0
+ 14 15  1  0
+  1  2  1  0
+ 15 16  1  0
+  7  8  1  0
+ 16 17  1  0
+  5  4  1  0
+ 16 18  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB06594
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COC1=CC2=C(CCNC(C)=O)C=CC=C2C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H17NO2/c1-11(17)16-9-8-13-5-3-4-12-6-7-14(18-2)10-15(12)13/h3-7,10H,8-9H2,1-2H3,(H,16,17)
+
+>  <INCHI_KEY>  (1) 
+YJYPHIXNFHFHND-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C15H17NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+243.301
+
+>  <EXACT_MASS>  (1) 
+243.125928793
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+35
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.615184675800555e-09
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.239995917417193
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-[2-(7-methoxynaphthalen-1-yl)ethyl]acetamide
+
+>  <ALOGPS_LOGP>  (1) 
+2.83
+
+>  <JCHEM_LOGP>  (1) 
+2.038327551
+
+>  <ALOGPS_LOGS>  (1) 
+-4.50
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.9645331803965
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.5685914990356027
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.6436
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.76e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+formic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB06594
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Agomelatine
+
+>  <SYNONYMS>  (1) 
+Agomelatina; Agomelatine
+
+>  <PRODUCTS>  (1) 
+Thymanax; Valdoxan
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Melitor; Valdoxan
+
+$$$$

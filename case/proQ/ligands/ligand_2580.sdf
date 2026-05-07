@@ -1,0 +1,127 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+   -0.2062    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6187    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0312    1.3332    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0312    0.6187    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  3  0
+  1  6  1  0
+  6  7  3  0
+  1  8  1  0
+  8  9  1  0
+  1 10  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14199
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+BrCC(Br)(CCC#N)C#N
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6Br2N2/c7-4-6(8,5-10)2-1-3-9/h1-2,4H2
+
+>  <INCHI_KEY>  (1) 
+DHVLDKHFGIVEIP-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C6H6Br2N2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+265.936
+
+>  <EXACT_MASS>  (1) 
+263.889774
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+16
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.964971374384845
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-bromo-2-(bromomethyl)pentanedinitrile
+
+>  <ALOGPS_LOGP>  (1) 
+2.14
+
+>  <JCHEM_LOGP>  (1) 
+1.756947667
+
+>  <ALOGPS_LOGS>  (1) 
+-3.52
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+47.58
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+45.91479999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.07e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+methyldibromo glutaronitrile
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB14199
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Bromothalonil
+
+>  <SYNONYMS>  (1) 
+1,2-Dibromo-2,4-dicyanobutane; 2-Bromo-2-(bromomethyl) glutaronitrile; 2-Bromo-2-(bromomethyl) pentanedinitrile; BBMG; Bromothalonil; Glutaronitrile, 2-bromo-2-(bromomethyl)-; MDBGN; Methyldibromo Glutaronitrile; Methyldibromoglutaronitrile
+
+>  <PRODUCTS>  (1) 
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

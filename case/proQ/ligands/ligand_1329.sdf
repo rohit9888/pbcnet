@@ -1,0 +1,161 @@
+
+     RDKit          2D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+   -0.3657   -0.1346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4244    0.1173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0420    0.3796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6106   -0.9005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0213   -0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6106    0.9177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7078   -0.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4492   -0.9005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8148   -0.2070    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8384   -1.2524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4008    1.1628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4946    0.1311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7044   -1.7078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942    0.5900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5871    1.9632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1052   -0.4244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7844    0.8281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  1  0
+  5  9  1  0
+  5 10  2  0
+  6 11  2  0
+  7 12  1  1
+  8 13  1  6
+  9 14  1  0
+ 11 15  1  0
+ 12 16  1  0
+ 14 17  2  0
+  7  8  1  0
+ 11 14  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04485
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14N2O5/c1-5-3-12(10(16)11-9(5)15)8-2-6(14)7(4-13)17-8/h3,6-8,13-14H,2,4H2,1H3,(H,11,15,16)/t6-,7+,8+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+IQFYYKKMVGJFEH-XLPZGREQSA-N
+
+>  <FORMULA>  (1) 
+C10H14N2O5
+
+>  <MOLECULAR_WEIGHT>  (1) 
+242.2286
+
+>  <EXACT_MASS>  (1) 
+242.090271568
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.0010947214185747138
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.060984366910677
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <ALOGPS_LOGP>  (1) 
+-1.32
+
+>  <JCHEM_LOGP>  (1) 
+-1.1190535893333329
+
+>  <ALOGPS_LOGS>  (1) 
+-0.56
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.907922676786031
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.960276156373078
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9780835894464888
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.1
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+55.412000000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.68e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB04485
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03053
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Thymidine
+
+>  <SYNONYMS>  (1) 
+1-(2-Deoxy-?-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione; 1-(2-DEOXY-.BETA.-D-ERYTHRO-PENTOFURANOSYL)-5-METHYLPYRIMIDINE-2,4(1H,3H)-DIONE; 2,4(1H,3H)-Pyrimidinedione, 1-(2-deoxy-?-D-erythro-pentofuranosyl)-5-methyl-; 2?-Deoxythymidine; 2'-deoxy-5-methyluridine; 2'-deoxythymidine; 2'-thymidine; 5-Methyl-2?-deoxyuridine; Deoxyribosylthymine; DEOXYRIBOTHYMIDINE; Deoxythymidine; Doxribtimine; dThd; MT-1621 COMPONENT 2'-DEOXYTHYMIDINE; Thymidine; Thymine 2'-deoxyriboside; Thymine deoxyriboside
+
+>  <PRODUCTS>  (1) 
+Kygevvi
+
+$$$$

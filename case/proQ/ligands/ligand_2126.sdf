@@ -1,0 +1,165 @@
+
+     RDKit          2D
+
+ 21 21  0  0  0  0  0  0  0  0999 V2000
+   -2.8574   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5707   -0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5707   -1.4432    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2854   -1.8554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4280    0.6184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1427    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8574    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5707    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2854    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2854   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9987   -0.6184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7147    1.8554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7147    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0001    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7132    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4279    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1426    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8560    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5707    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2854    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9987    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  7  1  0
+  2  3  1  0
+  2 10  1  0
+  3  4  1  0
+  5  6  1  0
+  5 13  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11324
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCCCCCC(=O)NCC1=CC(OC)=C(O)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H27NO3/c1-3-4-5-6-7-8-9-17(20)18-13-14-10-11-15(19)16(12-14)21-2/h10-12,19H,3-9,13H2,1-2H3,(H,18,20)
+
+>  <INCHI_KEY>  (1) 
+RGOVYLWUIBMPGK-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C17H27NO3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+293.4012
+
+>  <EXACT_MASS>  (1) 
+293.199093735
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+48
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.0011770524788644798
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.074806087574814
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-[(4-hydroxy-3-methoxyphenyl)methyl]nonanamide
+
+>  <ALOGPS_LOGP>  (1) 
+4.05
+
+>  <JCHEM_LOGP>  (1) 
+3.8245721046666663
+
+>  <ALOGPS_LOGS>  (1) 
+-4.10
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.951998651090193
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.928691692897024
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.4198503157728308
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.559999999999995
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.65220000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.33e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11324
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Nonivamide
+
+>  <SYNONYMS>  (1) 
+Hydroxymethoxybenzyl pelargonamide; N-Nonanoyl vanillylamide; N-Vanillylnonamide; N-Vanillylpelargonamide; Nonivamide; Pelargonyl vanillylamide; Pseudocapsaicin; Vanillyl-N-nonylamide
+
+>  <PRODUCTS>  (1) 
+Antiphlamine Coin Plaster; Family Care Thera Flex; Hot Pap Cataplasma; Pain Relieving Gel-Patch; Zenol Mild Hot
+
+$$$$

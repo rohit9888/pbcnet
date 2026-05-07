@@ -1,0 +1,157 @@
+
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+    0.1105    5.1414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4105    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1730    2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    2.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6039    2.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    3.0789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6039    3.0789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1269    5.0309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1269    3.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9519    5.0309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9519    3.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1730    3.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    3.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    3.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    4.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3644    4.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    4.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1894    4.3164    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.5855    2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9355    4.3164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  2  0
+  6  4  1  0
+  7  5  1  0
+  8  6  2  0
+ 11  9  2  0
+ 12 10  1  0
+ 14 13  1  0
+ 15  7  2  0
+ 15  8  1  0
+ 16  9  1  0
+ 16 10  2  0
+ 17 11  1  0
+ 17 12  2  0
+ 18  1  1  0
+ 18 15  1  0
+ 18 16  1  0
+ 19 17  1  0
+ 20  2  1  0
+ 20  3  1  0
+ 20 13  1  0
+ 21 14  1  0
+ 21 18  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09007
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN(C)CCOC(C)(C1=CC=CC=C1)C1=CC=C(Cl)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H22ClNO/c1-18(21-14-13-20(2)3,15-7-5-4-6-8-15)16-9-11-17(19)12-10-16/h4-12H,13-14H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+KKHPNPMTPORSQE-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C18H22ClNO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+303.826
+
+>  <EXACT_MASS>  (1) 
+303.138992038
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+43
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.03136075683058
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+{2-[1-(4-chlorophenyl)-1-phenylethoxy]ethyl}dimethylamine
+
+>  <ALOGPS_LOGP>  (1) 
+4.45
+
+>  <JCHEM_LOGP>  (1) 
+4.397809001333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.72
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.866470050489616
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+89.571
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.82e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+systral
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB09007
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Chlorphenoxamine
+
+>  <SYNONYMS>  (1) 
+2-((P-CHLORO-.ALPHA.-METHYL-.ALPHA.-PHENYLBENZYL)OXY)-N,N-DIMETHYLETHYLAMINE; Chlorphenoxamine; ETHENAMINE, 2-(1-(4-CHLOROPHENYL)-1-PHENYLETHOXY)-N,N-DIMETHYL-
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Sistral; Systral
+
+>  <SALTS>  (1) 
+Chlorphenoxamine hydrochloride
+
+$$$$

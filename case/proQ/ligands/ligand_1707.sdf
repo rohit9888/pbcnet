@@ -1,0 +1,135 @@
+
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -0.7144    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -1.5394    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    0.1105    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.4289    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9519    0.3019    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1269    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  3  1  0
+  7  3  1  0
+  8  4  1  0
+  9  4  1  0
+ 10  4  1  0
+ 11  1  1  0
+ 11  2  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB08969
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+FC(F)(F)COCC(F)(F)F
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H4F6O/c5-3(6,7)1-11-2-4(8,9)10/h1-2H2
+
+>  <INCHI_KEY>  (1) 
+KGPPDNUWZNWPSI-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C4H4F6O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+182.0644
+
+>  <EXACT_MASS>  (1) 
+182.01663398
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+15
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+5.63500365528971e-12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.939935139185032
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,1,1-trifluoro-2-(2,2,2-trifluoroethoxy)ethane
+
+>  <ALOGPS_LOGP>  (1) 
+1.94
+
+>  <JCHEM_LOGP>  (1) 
+2.0347419089999996
+
+>  <ALOGPS_LOGS>  (1) 
+-1.93
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.249105797899077
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.912699999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.14e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB08969
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Flurothyl
+
+>  <SYNONYMS>  (1) 
+Flurothyl; Flurotyl
+
+$$$$

@@ -1,0 +1,135 @@
+
+     RDKit          2D
+
+ 13  9  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cr  0  0  0  0  0 15  0  0  0  0  0  0
+    3.2411    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2411   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -3.7934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -3.0789    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6536   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2411   -3.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6536   -3.7934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4161   -3.0789    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  6  7  1  0
+  7  8  1  0
+  7  9  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  2  0
+M  CHG  8   1   3   2  -1   3   1   4  -1   6  -1   7   1   8  -1  10  -1
+M  CHG  2  11   1  12  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB14527
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Cr+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cr.3NO3/c;3*2-1(3)4/q+3;3*-1
+
+>  <INCHI_KEY>  (1) 
+PHFQLYPOURZARY-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+CrN3O9
+
+>  <MOLECULAR_WEIGHT>  (1) 
+238.0108
+
+>  <EXACT_MASS>  (1) 
+237.903965517
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.275441232355817
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+chromium(3+) trinitrate
+
+>  <ALOGPS_LOGP>  (1) 
+1.76
+
+>  <JCHEM_LOGP>  (1) 
+-2.574421943
+
+>  <ALOGPS_LOGS>  (1) 
+-3.43
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-9.93762264919614
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.19999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+8.3471
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.93e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chromium nitrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB14527
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT002353
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Chromic nitrate
+
+>  <SYNONYMS>  (1) 
+Chromic nitrate
+
+$$$$

@@ -1,0 +1,149 @@
+2368
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    3.0790    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  8  1  0
+  2  8  1  0
+  2 12  1  0
+  3  8  2  0
+  3 13  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  6  9  1  0
+  7 10  2  0
+  9 11  2  0
+ 10 11  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00217
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN\C(NCC1=CC=CC=C1)=N/C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15N3/c1-11-10(12-2)13-8-9-6-4-3-5-7-9/h3-7H,8H2,1-2H3,(H2,11,12,13)
+
+>  <INCHI_KEY>  (1) 
+NIVZHWNOUVJHKV-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H15N3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+177.2462
+
+>  <EXACT_MASS>  (1) 
+177.126597495
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9999960700917162
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.42707078400982
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(E)-N'-benzyl-N,N''-dimethylguanidine
+
+>  <ALOGPS_LOGP>  (1) 
+1.41
+
+>  <JCHEM_LOGP>  (1) 
+1.2665289659999996
+
+>  <ALOGPS_LOGS>  (1) 
+-2.05
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+12.405614447535985
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+36.42
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.50240000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.58e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB00217
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00825
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Bethanidine
+
+>  <SYNONYMS>  (1) 
+Betanidina; Bétanidine; Betanidine; Betanidinum; Bethanidine; N,N'-dimethyl-N''-(phenylmethyl)-guanidine
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Esbatal
+
+>  <SALTS>  (1) 
+Bethanidine sulfate
+
+$$$$

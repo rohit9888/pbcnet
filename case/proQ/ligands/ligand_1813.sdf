@@ -1,0 +1,122 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.2375   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 Cu  0  0  0  0  0  2  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09131
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+Cl[Cu]Cl
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2ClH.Cu/h2*1H;/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+ORTQZVOHEJQUHG-UHFFFAOYSA-L
+
+>  <FORMULA>  (1) 
+Cl2Cu
+
+>  <MOLECULAR_WEIGHT>  (1) 
+134.452
+
+>  <EXACT_MASS>  (1) 
+132.867306493
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.265316990745099
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dichlorocopper
+
+>  <ALOGPS_LOGP>  (1) 
+0.94
+
+>  <JCHEM_LOGP>  (1) 
+0.5189999999999999
+
+>  <ALOGPS_LOGS>  (1) 
+-0.48
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+12.2726
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.46e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB09131
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Cupric Chloride
+
+>  <SYNONYMS>  (1) 
+Copper chloride; Copper(2+) chloride; copper(II) chloride; Cupric Chloride; Cupric chloride anhydrous
+
+>  <PRODUCTS>  (1) 
+Addnutriv; Copper; Cupric Chloride; Peditrace; Trace Elements Injection USP; Trace Elements Solution Inj; Trace Elements for Injection - Liq IV
+
+>  <SALTS>  (1) 
+Cupric chloride dihydrate
+
+$$$$

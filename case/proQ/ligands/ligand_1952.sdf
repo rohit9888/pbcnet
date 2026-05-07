@@ -1,0 +1,122 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+   -0.4808   -0.0580    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2294   -0.4735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1959   -0.4735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0797    0.6572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8964    0.6572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1959   -0.6572    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+  5  1  1  0
+M  CHG  6   1   3   2  -1   3  -1   4  -1   5  -1   6   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09418
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[K+].[O-][Cl](=O)(=O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/ClHO4.K/c2-1(3,4)5;/h(H,2,3,4,5);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+YLMGFJXSLBMXHK-UHFFFAOYSA-M
+
+>  <FORMULA>  (1) 
+ClKO4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+138.549
+
+>  <EXACT_MASS>  (1) 
+137.912218056
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.233355043578754
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium perchlorate
+
+>  <ALOGPS_LOGP>  (1) 
+-0.97
+
+>  <JCHEM_LOGP>  (1) 
+-0.09765369733333332
+
+>  <ALOGPS_LOGS>  (1) 
+-0.13
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.061066750225243
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+74.27
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+11.9079
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.02e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium perchlorate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09418
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Potassium perchlorate
+
+>  <SYNONYMS>  (1) 
+Perchloric acid, potassium salt; Potassium perchlorate
+
+>  <PRODUCTS>  (1) 
+Perchloracap Capsule 200mg
+
+$$$$

@@ -1,0 +1,143 @@
+
+     RDKit          2D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  2  7  1  0
+  5  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+  8 13  1  0
+ 11 14  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11932
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1=CC=C(N=C1)C1=CC=C(C)C=N1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H12N2/c1-9-3-5-11(13-7-9)12-6-4-10(2)8-14-12/h3-8H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+PTRATZCAGVBFIQ-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C12H12N2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+184.242
+
+>  <EXACT_MASS>  (1) 
+184.100048394
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+26
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.308173217097377
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5,5'-dimethyl-2,2'-bipyridine
+
+>  <ALOGPS_LOGP>  (1) 
+2.43
+
+>  <JCHEM_LOGP>  (1) 
+2.983669754
+
+>  <ALOGPS_LOGS>  (1) 
+-2.27
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.7957277554247026
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+25.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.2188
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.80e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+5,5'-dimethyl-2,2'-bipyridine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11932
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Abametapir
+
+>  <SYNONYMS>  (1) 
+5,5'-Dimethyl-2,2'-bipyridine; 5,5'-Dimethyl-2,2'-dipyridyl; Abametapir
+
+>  <PRODUCTS>  (1) 
+Xeglyze
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Xeglyze
+
+$$$$

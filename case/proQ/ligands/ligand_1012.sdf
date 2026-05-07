@@ -1,0 +1,170 @@
+
+     RDKit          2D
+
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+   -0.7495    0.9524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5200    1.3649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7495    1.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640    0.5399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    2.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640    2.1899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1784    0.9524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1784    1.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8929    2.1899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6074    2.6024    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6793   -0.5399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495   -0.5399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6793   -1.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495   -1.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -1.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -2.6024    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -0.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495    0.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639    0.6975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1784    0.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8929    0.6975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8929    1.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6074    0.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    0.6975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 24  1  1  0
+ 24  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  2  0
+  6  8  2  0
+  8  9  1  0
+  9 10  3  0
+  3  5  1  0
+  7  8  1  0
+ 17 11  2  0
+ 17 12  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 13 15  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 24 17  1  0
+ 24 18  1  6
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 21 23  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01175
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN(C)CCC[C@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H21FN2O/c1-23(2)11-3-10-20(17-5-7-18(21)8-6-17)19-9-4-15(13-22)12-16(19)14-24-20/h4-9,12H,3,10-11,14H2,1-2H3/t20-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WSEQXVZVJXJVFP-FQEVSTJZSA-N
+
+>  <FORMULA>  (1) 
+C20H21FN2O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+324.3919
+
+>  <EXACT_MASS>  (1) 
+324.163791509
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+45
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.29621323231018
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S)-1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile
+
+>  <ALOGPS_LOGP>  (1) 
+3.58
+
+>  <JCHEM_LOGP>  (1) 
+3.764304206333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.74
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.784977656720883
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+36.26
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+94.0202
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.88e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+escitalopram
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01175
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00683
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Escitalopram
+
+>  <SYNONYMS>  (1) 
+(+)-Citalopram; (S)-Citalopram; Escitalopram; Escitalopramum; S-(+)-Citalopram; S(+)-Citalopram
+
+>  <PRODUCTS>  (1) 
+Ach-escitalopram; Act Escitalopram; Act Escitalopram ODT; Ag-escitalopram; Ag-escitalopram Tablets; Apo-escitalopram; Auro-escitalopram; Bio-escitalopram; Cipralex -10mg; Cipralex -15mg; Cipralex -20mg; Cipralex -5mg; Cipralex Meltz; Escitalopram; Escitalopram Oral Solution; Escitalopram Oxalate; Escitalopram Tablets; Escitalopram oxalate; Ipg-escitalopram; Jamp Escitalopram; Kye-escitalopram; Lexapro; M-escitalopram; Mar-escitalopram; Mint-escitalopram; Mylan-escitalopram; Nat-escitalopram; Natco-escitalopram; Nra-escitalopram; PMS-escitalopram; Pmsc-escitalopram; PramLyte; Riva-escitalopram; Sandoz Escitalopram; Taro-escitalopram; Teva-escitalopram
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Esertia
+
+>  <SALTS>  (1) 
+Escitalopram oxalate
+
+$$$$

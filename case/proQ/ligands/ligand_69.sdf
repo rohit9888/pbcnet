@@ -1,0 +1,154 @@
+
+     RDKit          2D
+
+ 13 15  0  0  0  0  0  0  0  0999 V2000
+   -0.4743    0.0388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993    0.0388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7118   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993   -1.3902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4743   -1.3902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4743   -0.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993   -0.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3340    0.0481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0618   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5042   -1.2759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2499   -0.9230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1448   -0.1047    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9737   -1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  9  1  0
+  1  9  1  0
+  1  6  1  0
+  6  7  1  0
+  4  7  1  0
+  9  8  1  6
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+  8 12  1  0
+ 11 13  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00185
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1O[C@@]2(CS1)CN1CCC2CC1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H17NOS/c1-8-12-10(7-13-8)6-11-4-2-9(10)3-5-11/h8-9H,2-7H2,1H3/t8?,10-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+WUTYZMFRCNBCHQ-LHIURRSHSA-N
+
+>  <FORMULA>  (1) 
+C10H17NOS
+
+>  <MOLECULAR_WEIGHT>  (1) 
+199.313
+
+>  <EXACT_MASS>  (1) 
+199.103084861
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+30
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9751865609167522
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.877049908985107
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-5'-methyl-4-azaspiro[bicyclo[2.2.2]octane-2,2'-[1,4]oxathiolane]
+
+>  <ALOGPS_LOGP>  (1) 
+1.46
+
+>  <JCHEM_LOGP>  (1) 
+0.996406311666666
+
+>  <ALOGPS_LOGS>  (1) 
+-1.92
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.594400747003007
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+55.92209999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.41e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB00185
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00224
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Cevimeline
+
+>  <SYNONYMS>  (1) 
+2-Methyspiro(1,3-oxathiolane-5,3)quinuclidine; Cevimelina; Cévimèline; Cevimeline; Cevimelinum
+
+>  <PRODUCTS>  (1) 
+Cevimeline; Cevimeline Hydrochloride; Evoxac
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Saligren
+
+>  <SALTS>  (1) 
+Cevimeline hydrochloride; Cevimeline hydrochloride anhydrous
+
+$$$$

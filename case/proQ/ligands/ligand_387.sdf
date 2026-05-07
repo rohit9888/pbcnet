@@ -1,0 +1,139 @@
+
+     RDKit          2D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 11 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 Cl 0.981800 0.583400 0.000000 0
+M  V30 2 Cl 0.981800 -0.583400 0.000000 0
+M  V30 3 Pt 0.398400 0.000000 0.000000 0 VAL=4
+M  V30 4 H 0.028600 1.380300 0.000000 0
+M  V30 5 H -0.981800 -0.369900 0.000000 0
+M  V30 6 H -0.981800 0.369800 0.000000 0
+M  V30 7 H 0.028500 -1.380300 0.000000 0
+M  V30 8 N -0.184900 -0.583400 0.000000 0
+M  V30 9 H -0.398400 -1.380300 0.000000 0
+M  V30 10 N -0.184900 0.583400 0.000000 0
+M  V30 11 H -0.981800 0.796900 0.000000 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 3 1
+M  V30 2 1 3 2
+M  V30 3 9 8 3
+M  V30 4 9 10 3
+M  V30 5 1 10 6
+M  V30 6 1 10 4
+M  V30 7 1 8 5
+M  V30 8 1 8 7
+M  V30 9 1 8 9
+M  V30 10 1 10 11
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+>  <DATABASE_ID>  (1) 
+DB00515
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H][N]([H])([H])[Pt](Cl)(Cl)[N]([H])([H])[H]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2ClH.2H3N.Pt/h2*1H;2*1H3;/q;;;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+LXZZYRPGZAFOLE-UHFFFAOYSA-L
+
+>  <FORMULA>  (1) 
+Cl2H6N2Pt
+
+>  <MOLECULAR_WEIGHT>  (1) 
+300.05
+
+>  <EXACT_MASS>  (1) 
+298.955596
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+11
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.945512558699935
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dichloroplatinumdiamine
+
+>  <ALOGPS_LOGP>  (1) 
+-0.04
+
+>  <ALOGPS_LOGS>  (1) 
+-0.64
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.28
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.302400000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.96e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diamminedichloroplatinum
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00515
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00359
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Cisplatin
+
+>  <SYNONYMS>  (1) 
+(SP-4-2)-DIAMMINEDICHLOROPLATINUM; CDDP; Cis-DDP; CIS-DIAMMINEDICHLOROPLATINUM; CIS-DIAMMINEDICHLOROPLATINUM II; cis-diamminedichloroplatinum(II); Cis-platinum; Cisplantin; Cisplatin; Cisplatine; cisplatino; Cisplatinum; INT-230-6 COMPONENT CISPLATIN; INT230-6 COMPONENT CISPLATIN; Peyrone's Chloride; Peyrone's Salt; PLATINUM, DIAMMINEDICHLORO-, (SP-4-2)-
+
+>  <PRODUCTS>  (1) 
+CISplatin; Cisplatin; Cisplatin Inj 0.5mg/ml; Cisplatin Inj 1mg/ml; Cisplatin Injection; Cisplatin Injection BP; Cisplatin Injection, BP; Cisplatin Injection, Mylan Std.; PMS-cisplatin; Platinol; Platinol AQ Inj 1mg/ml; Platinol-AQ
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Abiplatin; Cisplatyl; Platidiam; Platin; Platinol
+
+$$$$

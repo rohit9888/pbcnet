@@ -1,0 +1,173 @@
+
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+   -0.7214    0.8186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4259    0.3959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4259   -0.4397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1351   -0.8623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8639   -0.4397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7360    1.6347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1497    0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8639    0.3813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0073    0.4056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5781   -0.8719    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1351    0.8429    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1255   -1.6785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7068    0.8186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4210    0.4201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8639    0.4493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1448    1.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4113   -2.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6972   -1.6785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0073   -2.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5781    0.8623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8445    2.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7360   -1.6931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  2  0
+  4  3  1  0
+  5  8  1  0
+  6  1  2  0
+  7  2  1  0
+  8  7  2  0
+  9  1  1  0
+ 10  5  1  0
+ 11 14  1  0
+ 12  4  1  0
+ 13  9  1  0
+ 14 13  1  0
+ 15 11  1  0
+ 16 11  1  0
+ 17 12  1  0
+ 18 17  1  0
+ 19 18  1  0
+ 20 15  1  0
+ 21 16  1  0
+ 22 19  1  0
+  5  4  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00892
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCOC1=CC(=CC=C1N)C(=O)OCCN(CC)CC
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H28N2O3/c1-4-7-11-21-16-13-14(8-9-15(16)18)17(20)22-12-10-19(5-2)6-3/h8-9,13H,4-7,10-12,18H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+CMHHMUWAYWTMGS-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C17H28N2O3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+308.4158
+
+>  <EXACT_MASS>  (1) 
+308.209992772
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+50
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.9982992983653884
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.83146726804301
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(diethylamino)ethyl 4-amino-3-butoxybenzoate
+
+>  <ALOGPS_LOGP>  (1) 
+3.30
+
+>  <JCHEM_LOGP>  (1) 
+3.0462850066666673
+
+>  <ALOGPS_LOGS>  (1) 
+-2.75
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+19.758059209886714
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.961552187278182
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+64.79
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.63680000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+11
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.44e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+oxybuprocaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00892
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00817
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Oxybuprocaine
+
+>  <SYNONYMS>  (1) 
+4-Amino-3-butoxy-2-(diethylamino)ethyl ester benzoic acid; 4-Amino-3-butoxy-benzoic acid 2-diethylamino-ethyl ester; 4-Amino-3-n-butoxy-benzoesäure-diäthylaminoäthylester; Benoxinate; BNX; Butoxyaminobenzoyldiethylaminoethanol; Oxibuprocaina; Oxybucaine; Oxybuprocaine; Oxybuprocainum; Oxyriprocaine
+
+>  <PRODUCTS>  (1) 
+Altafluor; Fluorescein Sodium & Benoxinate Hydrochloride Ophthalmic Solution, USP; Fluorescein Sodium and Benoxinate Hydrochloride; Fluorox; Fluress; Fluress Liq Oph; Flurox; Minims Benoxinate Hydrochloride 0.4%
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Benoxil; Cebesine; Conjuncain; Dorsacaine; Lacrimin; Novesin; Novesine; Prescaina
+
+>  <SALTS>  (1) 
+Oxybuprocaine hydrochloride
+
+$$$$

@@ -1,0 +1,144 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  5  3  2  0
+  6  4  1  0
+  7  3  1  0
+  7  4  2  0
+  8  5  1  0
+  8  6  2  0
+  9  7  1  0
+ 10  8  1  0
+ 11  9  2  0
+ 12  2  1  0
+ 12  9  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB13628
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCOC(=O)C1=CC=C(O)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H10O3/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6,10H,2H2,1H3
+
+>  <INCHI_KEY>  (1) 
+NUVBSKCKDOMJSU-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C9H10O3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+166.1739
+
+>  <EXACT_MASS>  (1) 
+166.062994186
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+22
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.03063621486403089
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.230764877168575
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl 4-hydroxybenzoate
+
+>  <ALOGPS_LOGP>  (1) 
+2.76
+
+>  <JCHEM_LOGP>  (1) 
+2.0299654129999998
+
+>  <ALOGPS_LOGS>  (1) 
+-1.82
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.500251683958489
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.064399646787759
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.8128
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.49e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB13628
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ethyl hydroxybenzoate
+
+>  <SYNONYMS>  (1) 
+4-hydroxybenzoic acid ethyl ester; Ethyl hydroxybenzoate; Ethyl p-hydroxybenzoate; Ethyl paraben; Ethylparaben; p-hydroxybenzoic acid ethyl ester; p-Oxybenzoesaeureaethylester
+
+>  <PRODUCTS>  (1) 
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

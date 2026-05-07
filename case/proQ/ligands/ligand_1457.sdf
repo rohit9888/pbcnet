@@ -1,0 +1,155 @@
+
+     RDKit          2D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    4.5079   -0.4567    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4567    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2552    0.2184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7808    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8797    1.6013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6867    1.7728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4046    1.6395    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5471    0.4452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992    1.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.1068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9197    0.9720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 12  1  0
+  3 17  2  0
+  4  5  1  0
+  4  8  1  0
+  4 10  1  0
+  5  6  2  0
+  6 13  1  0
+  7 17  1  0
+  8  9  1  0
+  9 11  2  0
+  9 12  1  0
+ 10 13  2  0
+ 11 14  1  0
+ 12 15  2  0
+ 13 17  1  0
+ 14 16  2  0
+ 15 16  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB06201
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H8F2N4O/c11-7-2-1-3-8(12)6(7)4-16-5-9(10(13)17)14-15-16/h1-3,5H,4H2,(H2,13,17)
+
+>  <INCHI_KEY>  (1) 
+POGQSBRIGCQNEG-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H8F2N4O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+238.1935
+
+>  <EXACT_MASS>  (1) 
+238.066617308
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+25
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-2.2787966940898145e-06
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.41863432513202
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-[(2,6-difluorophenyl)methyl]-1H-1,2,3-triazole-4-carboxamide
+
+>  <ALOGPS_LOGP>  (1) 
+0.95
+
+>  <JCHEM_LOGP>  (1) 
+1.2665976423333336
+
+>  <ALOGPS_LOGS>  (1) 
+-2.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.640401724663645
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.0016254210683606
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+73.8
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.0702
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.42e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB06201
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Rufinamide
+
+>  <SYNONYMS>  (1) 
+Rufinamida; Rufinamide; Xilep 
+
+>  <PRODUCTS>  (1) 
+Auro-rufinamide; Banzel; Inovelon; Rufinamide
+
+$$$$

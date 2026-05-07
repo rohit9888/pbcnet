@@ -1,0 +1,184 @@
+401
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    0.6683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    2.3183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804    1.0808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.8068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    1.4933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7949   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 22  1  0
+  2 19  1  0
+  2 28  1  0
+  3 15  2  0
+  4 19  2  0
+  5  8  1  0
+  6  8  2  0
+  7 13  1  0
+  7 14  1  0
+  8 16  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+ 10 13  2  0
+ 10 15  1  0
+ 11 14  2  0
+ 11 19  1  0
+ 12 16  2  0
+ 12 17  1  0
+ 13 18  1  0
+ 14 20  1  0
+ 16 23  1  0
+ 17 24  2  0
+ 21 22  1  0
+ 21 26  1  0
+ 21 27  1  0
+ 23 25  2  0
+ 24 25  1  0
+M  CHG  2   5  -1   8   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB00401
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC=C1[N+]([O-])=O)C(=O)OCC(C)C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H24N2O6/c1-11(2)10-28-20(24)17-13(4)21-12(3)16(19(23)27-5)18(17)14-8-6-7-9-15(14)22(25)26/h6-9,11,18,21H,10H2,1-5H3
+
+>  <INCHI_KEY>  (1) 
+VKQFCGNPDRICFG-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C20H24N2O6
+
+>  <MOLECULAR_WEIGHT>  (1) 
+388.4144
+
+>  <EXACT_MASS>  (1) 
+388.16343651
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+52
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.1473273506973095e-10
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.700723424576445
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-methyl 5-(2-methylpropyl) 2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate
+
+>  <ALOGPS_LOGP>  (1) 
+3.63
+
+>  <JCHEM_LOGP>  (1) 
+3.059797457666667
+
+>  <ALOGPS_LOGS>  (1) 
+-4.83
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+16.940312653262186
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.643216243013854
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+107.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+104.90470000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.77e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00401
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00635
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Nisoldipine
+
+>  <SYNONYMS>  (1) 
+isobutyl methyl 2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate; Nisoldipin; Nisoldipina; Nisoldipine; Nisoldipino; Nisoldipinum
+
+>  <PRODUCTS>  (1) 
+Nisoldipine; Sular
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Baymycard; Baymycard RR; Bo Ping; Di Yi Xin; Ji Ni Le Er; Ninobarucin; Nisomynard; Riohard; Ruidi; Syscor
+
+$$$$

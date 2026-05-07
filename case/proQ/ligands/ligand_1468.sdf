@@ -1,0 +1,116 @@
+
+     RDKit          2D
+
+  7  0  0  0  0  0  0  0  0  0999 V2000
+   -1.1785    0.8250    0.0000 Fe  0  0  0  0  0 15  0  0  0  0  0  0
+    2.0035    0.8250    0.0000 Fe  0  0  0  0  0 15  0  0  0  0  0  0
+   -1.1785   -0.8250    0.0000 Fe  0  0  0  0  0 15  0  0  0  0  0  0
+   -2.0035    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1785    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0035   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1785   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  7   1   2   2   3   3   3   4  -2   5  -2   6  -2   7  -2
+M  END
+>  <DATABASE_ID>  (1) 
+DB06215
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[O--].[O--].[O--].[O--].[Fe++].[Fe+3].[Fe+3]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/3Fe.4O/q+2;2*+3;4*-2
+
+>  <INCHI_KEY>  (1) 
+WTFXARWRTYJXII-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+Fe3O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+231.531
+
+>  <EXACT_MASS>  (1) 
+231.784466
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+diiron(3+) lambda2-iron(2+) tetraoxidandiide
+
+>  <JCHEM_LOGP>  (1) 
+-0.77
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_PKA>  (1) 
+5.46
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.58
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diiron(3+) lambda2-iron(2+) tetraoxidandiide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB06215
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ferumoxytol
+
+>  <SYNONYMS>  (1) 
+Ferumoxytol; Ferumoxytol non-stoichiometric magnetite
+
+>  <PRODUCTS>  (1) 
+FeraBright; Feraheme; Feridex; Ferumoxytol
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Rienso
+
+$$$$

@@ -1,0 +1,172 @@
+
+     RDKit          2D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   -0.2945   -0.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0191   -0.2173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4391   -0.6085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4250   -0.2173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2945   -1.4200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1108   -0.6230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7291   -0.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7774   -0.1303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1541   -1.3909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4392    0.4975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3572   -1.3909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6133    0.4975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1490   -0.1979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1490   -1.0239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4391   -0.1883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7291   -1.4200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2314    0.7389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9708    1.1834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1490   -0.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4391   -1.8401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4682    1.8401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2506    1.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1490   -1.4200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  8  1  0
+  4  1  1  0
+  5  1  2  0
+  6  4  1  0
+  7  2  1  0
+  8  6  1  0
+  9 11  1  0
+ 10  2  1  0
+ 11  6  1  0
+ 12  2  1  0
+ 13  3  1  0
+ 14  3  1  0
+ 15  7  2  0
+ 16  7  1  0
+ 17 10  1  0
+ 18 10  1  0
+ 19 15  1  0
+ 20 16  2  0
+ 21 18  1  0
+ 22 17  1  0
+ 23 19  2  0
+  3  9  1  0
+ 22 21  1  0
+ 20 23  1  0
+M  CHG  1   3   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB00986
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C[N+]1(C)CCC(C1)OC(=O)C(O)(C1CCCC1)C1=CC=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H28NO3/c1-20(2)13-12-17(14-20)23-18(21)19(22,16-10-6-7-11-16)15-8-4-3-5-9-15/h3-5,8-9,16-17,22H,6-7,10-14H2,1-2H3/q+1
+
+>  <INCHI_KEY>  (1) 
+ANGKOCUUWGHLCE-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C19H28NO3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+318.4305
+
+>  <EXACT_MASS>  (1) 
+318.206918767
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+51
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.8812187933965
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-[(2-cyclopentyl-2-hydroxy-2-phenylacetyl)oxy]-1,1-dimethylpyrrolidin-1-ium
+
+>  <ALOGPS_LOGP>  (1) 
+-1.20
+
+>  <JCHEM_LOGP>  (1) 
+-1.4080879931384127
+
+>  <ALOGPS_LOGS>  (1) 
+-5.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.533272276219833
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.315146706381445
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+101.0809
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.44e-04 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+glycopyrrolate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00986
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01000; DB06583
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <GENERIC_NAME>  (1) 
+Glycopyrronium
+
+>  <SYNONYMS>  (1) 
+Glicopirronio; Glycopyrrolate; Glycopyrrolate cation; Glycopyrrolate ion; Glycopyrronium; Glycopyrronium cation; Glycopyrronium ion
+
+>  <PRODUCTS>  (1) 
+Bevespi Aerosphere; Breztri; Breztri Aerosphere; Cuvposa; Dartisla ODT; Enerzair Breezhaler; Enurev Breezhaler; Glycate; Glycopyrrolate; Glycopyrrolate 1ml; Glycopyrrolate Injection; Glycopyrrolate Injection Multidose; Glycopyrrolate Injection USP; Glycopyrrolate Oral Solution; Glycopyrronium / Formoterol Fumarate Dihydrate Pressurized Inhalation Suspension; Glyrx-PF; Lonhala; Lonhala Magnair; Prevduo; Qbrexza; Riarify; Riltrava Aerosphere; Robinul; Robinul 0.2mg/ml Liq Inj; Robinul Forte; Robinul Forte Tab 2mg; Robinul Tab 1mg; Robinul-forte Tab 2mg; Seebri Breezhaler; Seebri Neohaler; Sialanar; Tovanor Breezhaler; Trimbow; Trixeo Aerosphere; Trydonis; Ultibro Breezhaler; Ulunar Breezhaler; Utibron Neohaler; Xoterna Breezhaler; Zimbus Breezhaler
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acpan; Nodapton; Robanul; Robinal; Tarodyl
+
+>  <SALTS>  (1) 
+Glycopyrronium bromide; Glycopyrronium tosylate
+
+$$$$

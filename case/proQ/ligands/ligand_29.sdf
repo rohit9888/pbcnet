@@ -1,0 +1,153 @@
+
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    2.5076    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5076    1.0025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3642   -0.2350    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0787    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2221   -0.2350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    1.0025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3503    0.1775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0648   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2082    0.1775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  2  4  1  1
+  2  6  1  0
+  5  6  1  0
+  7  1  1  0
+  8  9  1  0
+  8 10  2  0
+  9 11  1  1
+  9 13  1  0
+ 12 13  1  0
+ 14  8  1  0
+  5 12  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00138
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H12N2O4S2/c7-3(5(9)10)1-13-14-2-4(8)6(11)12/h3-4H,1-2,7-8H2,(H,9,10)(H,11,12)/t3-,4-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+LEVWYRKDKASIDU-IMJSIDKUSA-N
+
+>  <FORMULA>  (1) 
+C6H12N2O4S2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+240.3
+
+>  <EXACT_MASS>  (1) 
+240.023848262
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+26
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.022477638287695334
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.772305661239265
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2-amino-3-{[(2R)-2-amino-2-carboxyethyl]disulfanyl}propanoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+-3.16
+
+>  <JCHEM_LOGP>  (1) 
+-5.897687960059564
+
+>  <ALOGPS_LOGS>  (1) 
+-1.16
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+2.267408279723485
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.556423109190338
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.342140596747571
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+126.64000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.87179999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.68e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00138
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00023
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Cystine
+
+>  <SYNONYMS>  (1) 
+(R,R)-3,3'-dithiobis(2-aminopropanoic acid); Cistina; Cystine; L-alpha-Diamino-beta-dithiolactic acid; L-Cystine; L-Dicysteine; β,β'-dithiodialanine
+
+>  <PRODUCTS>  (1) 
+Amino-cerv; Distilpure Msm; Medi Msm (methyl Sulfonyl Methane)
+
+$$$$

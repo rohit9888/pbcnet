@@ -1,0 +1,117 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB15906
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C#C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H2/c1-2/h1-2H
+
+>  <INCHI_KEY>  (1) 
+HSFWRNGVRCDJHI-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C2H2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+26.038
+
+>  <EXACT_MASS>  (1) 
+26.015650064
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.8795308655286407
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+acetylene
+
+>  <ALOGPS_LOGP>  (1) 
+-0.03
+
+>  <JCHEM_LOGP>  (1) 
+0.15384704066666668
+
+>  <ALOGPS_LOGS>  (1) 
+-1.65
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+8.565999999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.82e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+acetylene
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB15906
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Acetylene
+
+>  <SYNONYMS>  (1) 
+Ethine; Ethyne
+
+>  <PRODUCTS>  (1) 
+Lung Diffusion Test Mixture
+
+$$$$

@@ -1,0 +1,141 @@
+139
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    2.0928    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6650   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  1  0
+  3  7  2  0
+  4  8  2  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00139
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+OC(=O)CCC(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)
+
+>  <INCHI_KEY>  (1) 
+KDYFGRWQOYBRFD-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C4H6O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+118.088
+
+>  <EXACT_MASS>  (1) 
+118.02660868
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+14
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.9755799552040574
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.141334051490146
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+butanedioic acid
+
+>  <ALOGPS_LOGP>  (1) 
+-0.53
+
+>  <JCHEM_LOGP>  (1) 
+-0.3984829673333332
+
+>  <ALOGPS_LOGS>  (1) 
+0.25
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+5.6869121792916
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.5541665109763474
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+74.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.537
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.11e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00139
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00054
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <GENERIC_NAME>  (1) 
+Succinic acid
+
+>  <SYNONYMS>  (1) 
+1,2-ethanedicarboxylic acid; Acide butanedioïque; Acide succinique; Acidum succinicum; Amber acid; Asuccin; Bernsteinsäure; Butandisäure; Butanedioic acid; Butanedionic acid; Dihydrofumaric acid; Ethylenesuccinic acid; Spirit of amber; Succinic acid
+
+>  <PRODUCTS>  (1) 
+FeRiva 21 7; FeRiva 21-7 28-Day; Ferrex 150 Forte Plus; Ferrex 150 Plus; Ferrex 28; Iron Aspartate Glycinate and Polysaccharide Complex, Ascorbic Calcium, Vitamin B12, Folic Acid, Calcium Threonate and Succinic Acid; Iron Aspartate, Glycinate, Ascorbic Calcium, Vitamin B12, Calcium Threonate and Succinic Acid; Iron Fumarate and Aspartate, Glycinate, Ascorbic Calcium, Vitamin B12, Folic Acid, Calcium Threonate and Succinic Acid; Irospan 24/6; Niferex; Se-Vate 21/7
+
+>  <SALTS>  (1) 
+Sodium succinate
+
+$$$$

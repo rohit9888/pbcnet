@@ -1,0 +1,124 @@
+
+     RDKit          2D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0018    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 Sn  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  3   1  -1   2  -1   3   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB11056
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Cl-].[Cl-].[Sn++]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2ClH.Sn/h2*1H;/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+AXZWODMDQAVCJE-UHFFFAOYSA-L
+
+>  <FORMULA>  (1) 
+Cl2Sn
+
+>  <MOLECULAR_WEIGHT>  (1) 
+189.62
+
+>  <EXACT_MASS>  (1) 
+189.839901985
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.99999999999999
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.3881688999999993
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+lambda2-tin(2+) dichloride
+
+>  <ALOGPS_LOGP>  (1) 
+0.66
+
+>  <JCHEM_LOGP>  (1) 
+0.6123387216666667
+
+>  <ALOGPS_LOGS>  (1) 
+-0.46
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.6156
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.54e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11056
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Stannous chloride
+
+>  <SYNONYMS>  (1) 
+Stannous chloride; Stannous chloride anhydrous; Stannous chloride,anhydrous; Tin dichloride
+
+>  <PRODUCTS>  (1) 
+High Potency Multivitamins & Minerals Caplets; Multivitamins and Minerals Tablets; Spectrum Performa Multivitamins and Minerals Tablets; Technescan PYP; Ultratag RBC
+
+>  <SALTS>  (1) 
+Stannous chloride dihydrate
+
+$$$$

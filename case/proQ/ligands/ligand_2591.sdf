@@ -1,0 +1,130 @@
+
+     RDKit          2D
+
+  8  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3571    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2750   -2.4750    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2750   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5500   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2750   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -2.4750    0.0000 Ca  0  0  0  0  0 15  0  0  0  0  0  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  4  7  1  0
+M  CHG  3   6  -1   7  -1   8   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB14481
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+O.O.[Ca++].OP([O-])([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ca.H3O4P.2H2O/c;1-5(2,3)4;;/h;(H3,1,2,3,4);2*1H2/q+2;;;/p-2
+
+>  <INCHI_KEY>  (1) 
+XAAHAAMILDNBPS-UHFFFAOYSA-L
+
+>  <FORMULA>  (1) 
+CaH5O6P
+
+>  <MOLECULAR_WEIGHT>  (1) 
+172.086
+
+>  <EXACT_MASS>  (1) 
+171.9449658
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.235245052039284
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium dihydrate hydrogen phosphate
+
+>  <ALOGPS_LOGP>  (1) 
+-0.55
+
+>  <JCHEM_LOGP>  (1) 
+-1.0201038226666665
+
+>  <ALOGPS_LOGS>  (1) 
+-0.69
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.951626889535468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7961261340181318
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.42
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+12.4085
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.89e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dibasic calcium phosphate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB14481
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT001593
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Calcium phosphate dihydrate
+
+>  <SYNONYMS>  (1) 
+Calcium monohydrogen phosphate dihydrate; Calcium phosphate dibasic, hydrous; Calcium phosphate dihydrate; Calcium phosphate dihydrate, dibasic; Calcium phosphate, dibasic, dihydrate; Calcium phosphate, dibasic, hydrous; D.C.P.; Dibasic calcium phosphate dihydrate; Dibasic calcium phosphate hydrate; Dicalcium phosphate dihydrate
+
+>  <PRODUCTS>  (1) 
+BIS II Tooth; BasoSAN; Biorepair Sensitive Teeth; Biorepair Total Protection; Biovita; Finefra Aid Tooth; Hae Yan Tooth; Hea YanToothpaste; HiMangChanToothpaste; NAVI Black and C-Clinic; Rootsallo Toothpaste; Solmeet; Solmeet denti doctor; Toosty Mint Chocolate Toothpaste
+
+$$$$

@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  6  4  2  0
+  7  5  2  0
+  9  4  1  0
+  9  5  1  0
+  9  8  2  0
+ 10  6  1  0
+ 11  8  1  0
+ 11 10  2  0
+ 12  7  1  0
+ 13 10  1  0
+ 14 12  2  0
+ 15  2  1  0
+ 15 11  1  0
+ 16  3  1  0
+ 16 12  1  0
+ 17  5  1  0
+ 18  7  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11285
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H]\C(=C(\[H])C1=CC(OC)=C(O)C=C1)C(=O)OCC
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H14O4/c1-3-16-12(14)7-5-9-4-6-10(13)11(8-9)15-2/h4-8,13H,3H2,1-2H3/b7-5+
+
+>  <INCHI_KEY>  (1) 
+ATJVZXXHKSYELS-FNORWQNLSA-N
+
+>  <FORMULA>  (1) 
+C12H14O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+222.2372
+
+>  <EXACT_MASS>  (1) 
+222.089208936
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+30
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.0013539510705969794
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.572327079796327
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl (2E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate
+
+>  <ALOGPS_LOGP>  (1) 
+2.60
+
+>  <JCHEM_LOGP>  (1) 
+2.410885016666666
+
+>  <ALOGPS_LOGS>  (1) 
+-2.83
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.867808617684545
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.888705648522334
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.760000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+61.02170000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.28e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11285
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Ethyl ferulate
+
+>  <SYNONYMS>  (1) 
+Ethyl 4'-hydroxy-3'-methoxycinnamate; Ethyl ferulate
+
+>  <PRODUCTS>  (1) 
+Snowberry
+
+$$$$

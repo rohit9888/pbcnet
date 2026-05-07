@@ -1,0 +1,142 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -0.3572   -1.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  6  7  1  0
+  5  8  1  0
+  8  9  1  0
+  8 10  2  0
+  3 11  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB12466
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC(=O)C1=NC(F)=CN=C1O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H4FN3O2/c6-2-1-8-5(11)3(9-2)4(7)10/h1H,(H2,7,10)(H,8,11)
+
+>  <INCHI_KEY>  (1) 
+ZCGNOVWYSGBHAU-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C5H4FN3O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+157.104
+
+>  <EXACT_MASS>  (1) 
+157.028754544
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+15
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.123878906367722
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+6-fluoro-3-hydroxypyrazine-2-carboxamide
+
+>  <ALOGPS_LOGP>  (1) 
+0.49
+
+>  <JCHEM_LOGP>  (1) 
+0.25191639600000004
+
+>  <ALOGPS_LOGS>  (1) 
+-1.26
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.579307723139335
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.39401731404919
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6791532864267253
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+89.1
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+33.9761
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.70e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+[(2R,3S,4R,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxyphosphonic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB12466
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB06046; DB15625
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Favipiravir
+
+>  <SYNONYMS>  (1) 
+Fapilavir; Favilavir; Favipiravir
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Avigan
+
+$$$$

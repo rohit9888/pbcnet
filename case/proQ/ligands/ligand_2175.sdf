@@ -1,0 +1,150 @@
+
+     RDKit          2D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+   -1.0717   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  3  2  0
+  6  4  1  0
+  7  1  1  0
+  8  3  1  0
+  8  4  2  0
+  9  5  1  0
+  9  6  2  0
+ 10  7  1  0
+ 10  8  1  0
+ 11  2  1  0
+ 11  7  1  0
+ 12  9  1  0
+ 10 13  1  0
+  7 14  1  6
+ 10 15  1  6
+M  END
+>  <DATABASE_ID>  (1) 
+DB11610
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H][C@@](C)(NC)[C@]([H])(O)C1=CC=C(O)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15NO2/c1-7(11-2)10(13)8-3-5-9(12)6-4-8/h3-7,10-13H,1-2H3/t7-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+OXFGTKPPFSCSMA-XVKPBYJWSA-N
+
+>  <FORMULA>  (1) 
+C10H15NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+181.235
+
+>  <EXACT_MASS>  (1) 
+181.110278727
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.983218767601063
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[(1R,2S)-1-hydroxy-2-(methylamino)propyl]phenol
+
+>  <ALOGPS_LOGP>  (1) 
+-0.13
+
+>  <JCHEM_LOGP>  (1) 
+0.2835566920906289
+
+>  <ALOGPS_LOGS>  (1) 
+-1.17
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.030693226171365
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.192670055448021
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.801099074058046
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.489999999999995
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.6682
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+4-[(1R,2S)-1-hydroxy-2-(methylamino)propyl]phenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11610
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Oxilofrine
+
+>  <SYNONYMS>  (1) 
+4-HMP; 4-hydroxyephedrine; Methyl synephrin; Methyl synephrine; Methylsympatol; Methylsynephrin; Methylsynephrine; Oxilofrine; Oxyephedrin; p-hydroxyephedrine
+
+>  <PRODUCTS>  (1) 
+Cophylac; Cophylac Drops
+
+>  <SALTS>  (1) 
+Oxilofrine hydrochloride
+
+$$$$

@@ -1,0 +1,154 @@
+
+     RDKit          2D
+
+ 19 21  0  0  1  0  0  0  0  0999 V2000
+    3.0892   -2.2186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8037   -1.8060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5181   -2.2186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8037   -0.9811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5470   -0.6231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1517   -1.1842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9401   -0.9411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1237   -0.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5189    0.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7305    0.1811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2162    0.8262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3912    0.8262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8768    0.1811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0604   -0.6231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4556   -1.1842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6673   -0.9411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4837   -0.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0884    0.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5518    1.5798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  5 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+  4 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 13 18  1  0
+ 11 19  1  6
+M  END
+>  <DATABASE_ID>  (1) 
+DB14575
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+NC(=O)N1C2=CC=CC=C2[C@@H](O)CC2=C1C=CC=C2
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H14N2O2/c16-15(19)17-12-7-3-1-5-10(12)9-14(18)11-6-2-4-8-13(11)17/h1-8,14,18H,9H2,(H2,16,19)/t14-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+BMPDWHIDQYTSHX-AWEZNQCLSA-N
+
+>  <FORMULA>  (1) 
+C15H14N2O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+254.2839
+
+>  <EXACT_MASS>  (1) 
+254.105527702
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+33
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.44567819417623
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(9S)-9-hydroxy-2-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7,12,14-hexaene-2-carboxamide
+
+>  <ALOGPS_LOGP>  (1) 
+1.26
+
+>  <JCHEM_LOGP>  (1) 
+1.7317409759999998
+
+>  <ALOGPS_LOGS>  (1) 
+-2.66
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.966328258863756
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.100105594069579
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.189770696803096
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.56
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.28690000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.54e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(9S)-9-hydroxy-2-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7,12,14-hexaene-2-carboxamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB14575
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Eslicarbazepine
+
+>  <SYNONYMS>  (1) 
+Eslicarbazepina; Eslicarbazepine; S(+)-Liscarbazepine
+
+$$$$

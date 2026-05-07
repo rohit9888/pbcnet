@@ -1,0 +1,137 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.7863   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7863    0.2061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  8  2  0
+  3  9  2  0
+  6  4  1  1
+  5  9  1  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00174
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+N[C@@H](CC(N)=O)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H8N2O3/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H2,6,7)(H,8,9)/t2-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+DCXYFEDJOCDNAF-REOHCLBHSA-N
+
+>  <FORMULA>  (1) 
+C4H8N2O3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+132.1179
+
+>  <EXACT_MASS>  (1) 
+132.053492132
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+17
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.677080187792834
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-carbamoylpropanoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+-3.36
+
+>  <JCHEM_LOGP>  (1) 
+-4.287830841089268
+
+>  <ALOGPS_LOGS>  (1) 
+0.10
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.09048069675879
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.9985390993927763
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.433487205020553
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+106.41
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+28.354899999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.68e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+3-methyl-[1,2,4]triazino[3,4-a]phthalazin-4-one
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00174
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00015
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Asparagine
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-3-carbamoylpropanoic acid; (2S)-2,4-diamino-4-oxobutanoic acid; (S)-2-amino-3-carbamoylpropanoic acid; (S)-Asparagine; 2-Aminosuccinamic acid; alpha-aminosuccinamic acid; Asn; Asparagine; Aspartamic acid; L-2-aminosuccinamic acid; L-Asparagine; L-aspartic acid beta-amide; L-aspartic acid β-amide; α-aminosuccinamic acid
+
+>  <PRODUCTS>  (1) 
+EXODERMA Brightening Mellow Foam; EXODERMA Brightening Peeling Gel; EXODERMA Calming Toner Pad; The Classeum Co., Ltd.
+
+$$$$

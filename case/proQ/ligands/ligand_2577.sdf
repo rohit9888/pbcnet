@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+    0.0000    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+  7 12  1  0
+  5 13  1  0
+ 13 14  2  0
+  2 14  1  0
+  1 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 15 20  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14196
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C1CCC(CC1)NC1=CC=C(NC2=CC=CC=C2)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H22N2/c1-3-7-15(8-4-1)19-17-11-13-18(14-12-17)20-16-9-5-2-6-10-16/h1,3-4,7-8,11-14,16,19-20H,2,5-6,9-10H2
+
+>  <INCHI_KEY>  (1) 
+ZRMMVODKVLXCBB-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C18H22N2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+266.388
+
+>  <EXACT_MASS>  (1) 
+266.178298716
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+42
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.788057499299416
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N1-cyclohexyl-N4-phenylbenzene-1,4-diamine
+
+>  <ALOGPS_LOGP>  (1) 
+5.76
+
+>  <JCHEM_LOGP>  (1) 
+4.685220250333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.69
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.422124855176001
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+24.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+85.75220000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.42e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+N1-cyclohexyl-N4-phenylbenzene-1,4-diamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14196
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+N-Cyclohexyl-N'-phenyl-1,4-phenylenediamine
+
+>  <SYNONYMS>  (1) 
+CPPD; N-Cyclohexyl-N'-phenyl-1,4-phenylenediamine; N-Cyclohexyl-N'-phenyl-p-phenylendiamine; N-cyclohexyl-N'-phenyl-p-phenylenediamine
+
+>  <PRODUCTS>  (1) 
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Vulkacit 4010
+
+$$$$

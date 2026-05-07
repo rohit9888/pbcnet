@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+   -0.3551   -0.2045    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3560    0.2059    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0710   -0.2045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.2059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0710   -1.0297    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0701    0.2059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7853   -0.2045    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0701    1.0310    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4979    0.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2174   -1.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5044   -1.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7852   -1.0276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4980   -0.2119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2110    0.1949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2174    1.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5044    1.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7853    1.0274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  5  2  0
+  2  3  1  0
+  1  6  1  0
+  1  2  1  0
+  7 13  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  4 14  1  0
+  6  7  1  0
+  3  4  1  0
+  6  8  2  0
+  7  9  1  0
+  4 18  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14174
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+S=C(SSC(=S)N1CCCCC1)N1CCCCC1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H20N2S4/c15-11(13-7-3-1-4-8-13)17-18-12(16)14-9-5-2-6-10-14/h1-10H2
+
+>  <INCHI_KEY>  (1) 
+KNBRWWCHBRQLNY-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C12H20N2S4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+320.55
+
+>  <EXACT_MASS>  (1) 
+320.050933348
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+38
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.384574674098374
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+piperidine-1-carbothioylsulfanyl piperidine-1-carbodithioate
+
+>  <ALOGPS_LOGP>  (1) 
+3.78
+
+>  <JCHEM_LOGP>  (1) 
+4.4332593666666655
+
+>  <ALOGPS_LOGS>  (1) 
+-4.68
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.52479999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.77e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dipentamethylenethiuram disulfide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14174
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Dipentamethylenethiuram disulfide
+
+>  <SYNONYMS>  (1) 
+1-Piperidinethiocarbonyl disulfide; 1,1'-(Dithiodicarbonothioyl)bispiperidine; Bis(1-piperidylthiocarbonyl) disulfide; Bis(1-piperidylthiocarbonyl)disulfide; Bis(pentamethylene)thiuram disulfide; Bis(piperidinothiocarbonyl)disulfide
+
+>  <PRODUCTS>  (1) 
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

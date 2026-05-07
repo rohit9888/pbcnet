@@ -1,0 +1,129 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.8250   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.7145    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2374    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2374    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  7  5  1  0
+  2  7  1  0
+  3  7  1  0
+  4  5  1  0
+  5  6  1  0
+  7  8  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01159
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[H]C(Cl)(Br)C(F)(F)F
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H
+
+>  <INCHI_KEY>  (1) 
+BCQZXOMGPXTTIC-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C2HBrClF3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+197.382
+
+>  <EXACT_MASS>  (1) 
+195.890225001
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.783667227362905
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-bromo-2-chloro-1,1,1-trifluoroethane
+
+>  <ALOGPS_LOGP>  (1) 
+2.50
+
+>  <JCHEM_LOGP>  (1) 
+2.1193551299999998
+
+>  <ALOGPS_LOGS>  (1) 
+-1.71
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+24.633099999999995
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.81e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+gemifloxacin mesylate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01159
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00598; EXPT01754; DB02330
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Halothane
+
+>  <SYNONYMS>  (1) 
+1-bromo-1-chloro-2,2,2-trifluoroethane; 1,1,1-trifluoro-2-bromo-2-chloroethane; 1,1,1-trifluoro-2-chloro-2-bromoethane; 2-bromo-2-chloro-1,1,1-trifluoroethane; 2,2,2-trifluoro-1-chloro-1-bromoethane; Alotano; Bromochlorotrifluoroethane; Halotano; Halothane; Halothanum
+
+>  <PRODUCTS>  (1) 
+Fluothane Anesthetic; Fluothane Liq Inh 1000mg/gm; Halothane; Halothane Liq 99.9%
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Fluothane; Ftorotan; Halotan; Narcotan
+
+$$$$

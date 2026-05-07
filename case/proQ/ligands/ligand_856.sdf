@@ -1,0 +1,141 @@
+
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    0.3566   -0.2035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3579    0.2089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0723   -0.2035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0711    0.2089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7869    0.2088    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7857   -0.2035    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5049    0.2089    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5050   -0.2086    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2207    0.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2207   -0.2086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0950    0.9249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9201    0.9218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0892   -0.9212    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9143   -0.9249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  2  1  1  0
+  3  5  1  0
+  4  6  1  0
+  6  7  1  0
+  5  8  1  0
+  8  9  1  0
+  7 10  1  0
+ 11  7  2  0
+ 12  7  2  0
+ 13  8  2  0
+ 14  8  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01008
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CS(=O)(=O)OCCCCOS(C)(=O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H14O6S2/c1-13(7,8)11-5-3-4-6-12-14(2,9)10/h3-6H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+COVZYZSDYWQREU-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C6H14O6S2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+246.302
+
+>  <EXACT_MASS>  (1) 
+246.02317956
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.637829810018637
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-(methanesulfonyloxy)butyl methanesulfonate
+
+>  <ALOGPS_LOGP>  (1) 
+-0.90
+
+>  <JCHEM_LOGP>  (1) 
+-0.7590282259999991
+
+>  <ALOGPS_LOGS>  (1) 
+-1.68
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.74000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.5686
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.16e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+busulfan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB01008
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00664
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Busulfan
+
+>  <SYNONYMS>  (1) 
+1, 4-Bis[methanesulfonoxy]butane; 1,4-Bis(methanesulfonoxy)butane; 1,4-Butanediol dimethanesulfonate; 1,4-Dimesyloxybutane; 1,4-Dimethanesulfonoxybutane; Busulfan; Busulfano; Busulfanum; Busulphan; Tetramethylene bis(methanesulfonate); Tetramethylene bis[methanesulfonate]
+
+>  <PRODUCTS>  (1) 
+Busilvex; Busulfan; Busulfan Fresenius Kabi; Busulfan Injection; Busulfan for Injection; Busulfex; Myleran; PMS-busulfan
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bisulfex; Busilvex; Leucosulfan; Mablin; Mielucin; Misulban; Mitostan; Myeloleukon
+
+$$$$

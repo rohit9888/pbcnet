@@ -1,0 +1,148 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   -0.3572   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  1  6  1  0
+  1  7  1  1
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  3 11  1  1
+  6 12  1  6
+ 12 13  1  0
+ 12 14  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11174
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(C)[C@@H]1CC[C@@H](C)C[C@H]1OCCO
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H24O2/c1-9(2)11-5-4-10(3)8-12(11)14-7-6-13/h9-13H,4-8H2,1-3H3/t10-,11+,12-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+FVBGFZNFXUIHNC-GRYCIOLGSA-N
+
+>  <FORMULA>  (1) 
+C12H24O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+200.322
+
+>  <EXACT_MASS>  (1) 
+200.177630013
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+38
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.001808839595415419
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.70858428390349
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-{[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}ethan-1-ol
+
+>  <ALOGPS_LOGP>  (1) 
+3.11
+
+>  <JCHEM_LOGP>  (1) 
+2.6172976386666673
+
+>  <ALOGPS_LOGS>  (1) 
+-3.14
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.120577679405061
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.7460593230282253
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.48879999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.44e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-{[(1R,2S,5R)-2-isopropyl-5-methylcyclohexyl]oxy}ethanol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11174
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+2-(l-menthoxy)ethanol
+
+>  <PRODUCTS>  (1) 
+Pain Goodbye Aqueous Patch
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Coolact5
+
+$$$$

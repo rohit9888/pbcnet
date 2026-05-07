@@ -1,0 +1,138 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -1.4297    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4297    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7151   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1442   -0.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7151    1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1442    1.2376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0007    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1442   -1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0007    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7138   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1443   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  2  0
+  4  8  1  0
+  5  9  2  0
+  7  9  1  0
+  7 10  1  0
+ 10 11  2  3
+ 11 12  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14188
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COC1=CC(C=CC)=CC=C1O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12O2/c1-3-4-8-5-6-9(11)10(7-8)12-2/h3-7,11H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+BJIOGJUNALELMI-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H12O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+164.204
+
+>  <EXACT_MASS>  (1) 
+164.083729626
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+24
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.252340851472646
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-methoxy-4-(prop-1-en-1-yl)phenol
+
+>  <ALOGPS_LOGP>  (1) 
+2.79
+
+>  <JCHEM_LOGP>  (1) 
+2.6353462913333328
+
+>  <ALOGPS_LOGS>  (1) 
+-2.08
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.013922795139589
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.8937792336789006
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.86190000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.36e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-methoxy-4-propenylphenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14188
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Isoeugenol
+
+>  <SYNONYMS>  (1) 
+1-Hydroxy-2-methoxy-4-propen-1-ylbenzene; 2-methoxy-4-(prop-1-en-1-yl)phenol; 2-Methoxy-4-propenylphenol; 3-Methoxy-4-hydroxypropenylbenzene; 4-Propenylguaiacol; Isoeugenol; Propenylguaiacol
+
+>  <PRODUCTS>  (1) 
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

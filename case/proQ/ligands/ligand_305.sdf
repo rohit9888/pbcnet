@@ -1,0 +1,83 @@
+
+     RDKit          2D
+
+ 18 17  0  0  1  0  0  0  0  0999 V2000
+   -2.1433    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  2  5  1  0
+  5  6  2  0
+  5  7  1  0
+  8  7  1  6
+  8  9  1  0
+  9 10  2  0
+ 11  8  1  0
+ 11 12  1  1
+ 11 13  1  0
+ 13 14  1  1
+ 13 15  1  0
+ 15 16  1  6
+ 15 17  1  0
+ 17 18  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00428
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN(N=O)C(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H15N3O7/c1-11(10-18)8(17)9-4(2-12)6(15)7(16)5(14)3-13/h2,4-7,13-16H,3H2,1H3,(H,9,17)/t4-,5+,6+,7+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AGRCPNMCOXLKFO-BDVNFPICSA-N
+
+>  <FORMULA>  (1) 
+C8H15N3O7
+
+>  <MOLECULAR_WEIGHT>  (1) 
+265.222
+
+>  <EXACT_MASS>  (1) 
+265.090999835
+
+>  <DRUGBANK_ID>  (1) 
+DB00428
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00209
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Streptozocin
+
+>  <SYNONYMS>  (1) 
+1-METHYL-1-NITROSO-3-((2R,3R,4S,5R)-3,4,5,6-TETRAHYDROXY-1-OXOHEXAN-2-YL)UREA; 1-METHYL-1-NITROSO-3-((3R,4R,5S,6R)-2,4,5-TRIHYDROXY-6-(HYDROXYMETHYL)TETRAHYDRO-2H-PYRAN-3-YL)UREA; 2-Deoxy-2-(((methylnitrosoamino)carbonyl)amino)-D-glucopyranose; 2-Deoxy-2-(3-methyl-3-nitrosoureido)-D-glucopyranose; D-GLUCOPYRANOSE, 2-DEOXY-2-(((METHYLNITROSOAMINO)CARBONYL)AMINO)-; Estreptozocina; N-D-Glucosyl-(2)-N'-nitrosomethylharnstoff; N-D-Glucosyl-(2)-N'-nitrosomethylurea; Streptozocin; Streptozocine; Streptozocinium; Streptozocinum; Streptozotocin
+
+>  <PRODUCTS>  (1) 
+Zanosar; Zanosar Sterile Powder
+
+$$$$

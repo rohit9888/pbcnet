@@ -1,0 +1,144 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    1.7861    1.4437    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716   -1.4437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.4437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  5  2  0
+  2  9  1  0
+  3  7  1  0
+  4  6  2  0
+  4  7  1  0
+  4  8  1  0
+  5  6  1  0
+  5 10  1  0
+  8  9  2  0
+ 10 11  1  0
+ 11 12  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB12667
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCC1=CC(=CC=N1)C(N)=S
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H12N2S/c1-2-3-8-6-7(9(10)12)4-5-11-8/h4-6H,2-3H2,1H3,(H2,10,12)
+
+>  <INCHI_KEY>  (1) 
+VRDIULHPQTYCLN-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C9H12N2S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+180.27
+
+>  <EXACT_MASS>  (1) 
+180.072119568
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+24
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.00918944376810581
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.093691362756367
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-propylpyridine-4-carbothioamide
+
+>  <ALOGPS_LOGP>  (1) 
+2.25
+
+>  <JCHEM_LOGP>  (1) 
+1.7725579486666665
+
+>  <ALOGPS_LOGS>  (1) 
+-2.79
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.889585365299848
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.967911909103803
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.91
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.78979999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.96e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+incyclinide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB12667
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Protionamide
+
+>  <SYNONYMS>  (1) 
+Prothionamide; Protionamida; Protionamide; Protionamidum
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ektebin; Peteha; Trevintix
+
+$$$$

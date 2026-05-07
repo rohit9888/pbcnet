@@ -1,0 +1,130 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    0.0016    0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0016   -0.8166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7129    0.4209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7129   -1.2291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4274    0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4274   -0.8166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7118    1.2390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4274    0.0064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7185   -1.2390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  1  0
+  6  5  1  0
+  1  7  1  0
+  7  8  2  0
+  7  9  1  0
+  2 10  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04519
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCCCCCCC(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+
+>  <INCHI_KEY>  (1) 
+WWZKQHOCKIZLMA-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C8H16O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+144.2114
+
+>  <EXACT_MASS>  (1) 
+144.115029756
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+26
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.404174014251353
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+octanoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+2.92
+
+>  <JCHEM_LOGP>  (1) 
+2.700033457666666
+
+>  <ALOGPS_LOGS>  (1) 
+-2.20
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.192975275996319
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.275600000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.07e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+caprylic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB04519
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02413
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Caprylic acid
+
+>  <SYNONYMS>  (1) 
+1-heptanecarboxylic acid; Acide octanoique; Acide octanoïque; ácido octanoico; Acidum octanocium; Acidum octanoicum; C8:0; Caprylic acid; Kaprylsäure; n-caprylic acid; n-octanoic acid; n-Octoic acid; n-octylic acid; Octanoic acid; Octoic acid; Octylic acid
+
+$$$$

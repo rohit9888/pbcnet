@@ -1,0 +1,111 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 Li  0  0  0  0  0 15  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB14506
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Li+].[OH-]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Li.H2O/h;1H2/q+1;/p-1
+
+>  <INCHI_KEY>  (1) 
+WMFOQBRAJBCJND-UHFFFAOYSA-M
+
+>  <FORMULA>  (1) 
+HLiO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+23.95
+
+>  <EXACT_MASS>  (1) 
+24.01874309
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+lithium(1+) hydroxide
+
+>  <JCHEM_LOGP>  (1) 
+0.0
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+3.55
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.09
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lithium hydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14506
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Lithium hydroxide
+
+>  <SYNONYMS>  (1) 
+Lithium hydrate; Lithium hydroxide; Lithium hydroxide anhydrous; Lithiumhydroxid
+
+>  <PRODUCTS>  (1) 
+Lithium Hydroxide Monohydrate
+
+>  <SALTS>  (1) 
+Lithium hydroxide monohydrate
+
+$$$$

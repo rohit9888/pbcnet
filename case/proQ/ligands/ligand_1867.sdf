@@ -1,0 +1,133 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    1.0588   -0.3970    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6401   -0.7610    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3498    0.8224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3639    0.4018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0588    0.4018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3639   -0.3970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0541    0.7988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7772    0.8224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0541   -0.8224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7772    0.4018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7772   -0.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  5  1  0
+  4  3  1  0
+  5  1  1  0
+  6  4  2  0
+  7  4  1  0
+  8  5  1  0
+  9  6  1  0
+ 10  7  2  0
+ 11  9  2  0
+ 10 11  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09250
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC(CC1=CC=CC=C1)NN
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H14N2/c1-8(11-10)7-9-5-3-2-4-6-9/h2-6,8,11H,7,10H2,1H3
+
+>  <INCHI_KEY>  (1) 
+VXTWEDPZMSVFEF-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C9H14N2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+150.225
+
+>  <EXACT_MASS>  (1) 
+150.115698459
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+25
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.472316992716515
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1-phenylpropan-2-yl)hydrazine
+
+>  <ALOGPS_LOGP>  (1) 
+1.69
+
+>  <JCHEM_LOGP>  (1) 
+1.6195950673333332
+
+>  <ALOGPS_LOGS>  (1) 
+-1.60
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.649550295774807
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.05
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.682100000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.75e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pheniprazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB09250
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Pheniprazine
+
+>  <SYNONYMS>  (1) 
+Pheniprazine
+
+>  <SALTS>  (1) 
+Pheniprazine hydrochloride
+
+$$$$

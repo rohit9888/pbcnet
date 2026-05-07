@@ -1,0 +1,150 @@
+
+     RDKit          2D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   -0.3906    0.3906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4343    0.3906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8468   -0.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8274    1.1040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0650    1.7932    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8468    1.0798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6718   -0.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4101   -1.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6718    1.0798    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6718   -1.7787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8468   -1.7787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0795   -1.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0795   -2.5163    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6476    1.1040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6476    2.5017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3906    1.7932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0795    1.7738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0795    0.3615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8274    2.5163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  1  1  0
+  5 14  2  0
+  6  2  1  0
+  7  3  2  0
+  8  3  1  0
+  9  6  1  0
+ 10 11  1  0
+ 11  8  2  0
+ 12  7  1  0
+ 13 10  1  0
+ 14  4  1  0
+ 15 19  2  0
+ 16  4  2  0
+ 17  9  1  0
+ 18  9  1  0
+ 19 16  1  0
+ 12 10  2  0
+  5 15  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04832
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN(C)C\C=C(\C1=CC=C(Br)C=C1)C1=CC=CN=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H17BrN2/c1-19(2)11-9-16(14-4-3-10-18-12-14)13-5-7-15(17)8-6-13/h3-10,12H,11H2,1-2H3/b16-9-
+
+>  <INCHI_KEY>  (1) 
+OYPPVKRFBIWMSX-SXGWCWSVSA-N
+
+>  <FORMULA>  (1) 
+C16H17BrN2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+317.23
+
+>  <EXACT_MASS>  (1) 
+316.057512
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+36
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.935501916614633
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[(2Z)-3-(4-bromophenyl)-3-(pyridin-3-yl)prop-2-en-1-yl]dimethylamine
+
+>  <ALOGPS_LOGP>  (1) 
+3.39
+
+>  <JCHEM_LOGP>  (1) 
+3.5088370323333335
+
+>  <ALOGPS_LOGS>  (1) 
+-4.12
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.615206433244522
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+16.130000000000003
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.93790000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.39e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zimelidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB04832
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Zimelidine
+
+>  <SYNONYMS>  (1) 
+(Z)-3-(4'-Bromophenyl)-3-(3''-pyridyl)dimethylallylamine; (Z)-zimelidine; cis-zimelidine; Zimeldina; Zimeldine; Zimeldinum; Zimelidine
+
+>  <SALTS>  (1) 
+Zimelidine hydrochloride
+
+$$$$

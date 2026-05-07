@@ -1,0 +1,155 @@
+
+     RDKit          2D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   -0.3528    0.0645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3528   -0.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0686    0.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0686   -1.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7844    0.0645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7844   -0.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5001    0.4821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5001   -1.1681    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3628    0.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0785    0.0745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7943    0.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5001    0.0745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7943    1.3072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5020   -0.5219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6651   -0.5119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4563   -1.3073    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  9  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  7  5  1  0
+  8  6  1  0
+ 10  9  1  0
+ 11 10  1  0
+ 10 14  1  6
+ 10 15  1  0
+ 12 11  1  0
+ 13 11  2  0
+ 16 15  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00190
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+C[C@@](CC1=CC(O)=C(O)C=C1)(NN)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14N2O4/c1-10(12-11,9(15)16)5-6-2-3-7(13)8(14)4-6/h2-4,12-14H,5,11H2,1H3,(H,15,16)/t10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+TZFNLOMSOLWIDK-JTQLQIEISA-N
+
+>  <FORMULA>  (1) 
+C10H14N2O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+226.2292
+
+>  <EXACT_MASS>  (1) 
+226.095356946
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+30
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.806808336346297
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-3-(3,4-dihydroxyphenyl)-2-hydrazinyl-2-methylpropanoic acid
+
+>  <ALOGPS_LOGP>  (1) 
+-0.16
+
+>  <JCHEM_LOGP>  (1) 
+-1.2078362008406989
+
+>  <ALOGPS_LOGS>  (1) 
+-1.78
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+9.28650563164388
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.3544595300449216
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.663329899668677
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+115.80999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.7683
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.73e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carbidopa
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00190
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00160
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Carbidopa
+
+>  <SYNONYMS>  (1) 
+(-)-L-alpha-Hydrazino-3,4-dihydroxy-alpha-methylhydrocinnamic acid monohydrate; (S)-(−)-carbidopa; (S)-carbidopa; (αS)-α-hydrazino-3,4-dihydroxy-α-methylbenzenepropanoic acid; Carbidopa; Carbidopa (anhydrous); Carbidopa anhydrous; Carbidopum; L-3-(3,4-dihydroxyphenyl)-2-methyl-2-hydrazinopropionic acid; L-α-methyldopahydrazine
+
+>  <PRODUCTS>  (1) 
+Aa-levocarb CR; Ag-levocarb; Apo-levocarb; Auro-levocarb; Carbidopa; Carbidopa Tablets, 25 mg; Carbidopa and Levodopa; Carbidopa and levodopa; Carbidopa, Levodopa and Entacapone; Carbidopa, Levodopa, and Entacapone; Carbidopa, levodopa and entacapone; Carbidopa-levodopa; Corbilta; Crexont; Dhivy; Dom-levo-carbidopa; Duodopa; Duopa; Jamp Levocarb; Levodopa, Carbidopa and Entacapone Tablets; Levodopa-carbidopa; Levodopa-carbidopa CR; Levodopa/carbidopa/entacapone Orion; Lodosyn; Mint-levocarb; Numient; PMS-levodopa-carbidopa; Parcopa; Pro-lecarb-100/10 - Tab; Pro-lecarb-100/25 - Tab; Pro-levocarb - 100/25; Ratio-levodopa/carbidopa; Rytary; Sandoz Levodopa-carbidopa-entacapone; Sinemet; Sinemet 100/10; Sinemet CR; Sinemet CR 100/25; Sinemet CR 200/50; Stalevo; Teva-levocarbidopa
+
+>  <SALTS>  (1) 
+Carbidopa hydrate
+
+$$$$

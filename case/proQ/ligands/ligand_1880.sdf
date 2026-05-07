@@ -1,0 +1,181 @@
+
+     RDKit          2D
+
+ 32 24  0  0  0  0  0  0  0  0999 V2000
+   -2.7696   -1.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5946    0.3167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9446   -1.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1821    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8966   -0.8101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1821   -0.3976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5321   -1.8266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5321   -0.3976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3571    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5946    1.7457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6110   -0.3976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8966   -1.6351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4676    0.0148    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2630   -0.0147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9610   -1.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2630    0.8102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7860   -1.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8341   -0.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5485   -0.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9775    1.2227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5485    1.2227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1985   -1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1985   -0.4272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8341   -1.6647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1196   -0.4272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1360    0.2872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1196    0.3167    0.0000 Bi  0  0  0  0  0 15  0  0  0  0  0  0
+   -4.0071    2.4601    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+   -3.8966   -2.4601    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+   -1.7532    0.4273    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+    1.8341    1.6352    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+    4.6110    0.2872    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+  3  1  1  0
+  4  2  1  0
+  6  1  1  0
+  6  2  1  0
+  6  5  1  0
+  7  3  2  0
+  8  3  1  0
+  9  4  2  0
+ 10  4  1  0
+ 11  5  2  0
+ 12  5  1  0
+ 13  6  1  0
+ 16 14  1  0
+ 17 15  1  0
+ 19 14  1  0
+ 19 15  1  0
+ 19 18  1  0
+ 20 16  2  0
+ 21 16  1  0
+ 22 17  2  0
+ 23 17  1  0
+ 24 18  2  0
+ 25 18  1  0
+ 26 19  1  0
+M  CHG  8   8  -1  10  -1  12  -1  13  -1  21  -1  23  -1  25  -1  26  -1
+M  CHG  6  27   3  28   1  29   1  30   1  31   1  32   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09275
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[K+].[K+].[K+].[K+].[K+].[Bi+3].[O-]C(=O)CC([O-])(CC([O-])=O)C([O-])=O.[O-]C(=O)CC([O-])(CC([O-])=O)C([O-])=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C6H7O7.Bi.5K/c2*7-3(8)1-6(13,5(11)12)2-4(9)10;;;;;;/h2*1-2H2,(H,7,8)(H,9,10)(H,11,12);;;;;;/q2*-1;+3;5*+1/p-6
+
+>  <INCHI_KEY>  (1) 
+YDDTTXDPCSCLKY-UHFFFAOYSA-H
+
+>  <FORMULA>  (1) 
+C12H8BiK5O14
+
+>  <MOLECULAR_WEIGHT>  (1) 
+780.654
+
+>  <EXACT_MASS>  (1) 
+779.79034
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+40
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.96896500977476
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+bismuth(3+) pentapotassium bis(2-oxidopropane-1,2,3-tricarboxylate)
+
+>  <ALOGPS_LOGP>  (1) 
+0.79
+
+>  <JCHEM_LOGP>  (1) 
+-1.3226874519999998
+
+>  <ALOGPS_LOGS>  (1) 
+-1.60
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+4.674836176324
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.0479515131680732
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.185693450231931
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+143.45
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.68550000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.38e+01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bismuth(3+) pentapotassium bis(2-oxidopropane-1,2,3-tricarboxylate)
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09275
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT001961
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Bismuth subcitrate potassium
+
+>  <SYNONYMS>  (1) 
+Bismuth subcitrate potassium; Bismuth subcitrate potassium anhydrous
+
+>  <PRODUCTS>  (1) 
+Bismuth Subcitrate Potassium, Metronidazole and Tetracycline Hydrochloride; Bismuth Subcitrate Potassium, Metronidazole, and Tetracycline Hydrochloride; Bismuth subcitrate potassium, Metronidazole, Tetracycline hydrochloride; Pylera
+
+>  <SALTS>  (1) 
+Bismuth subcitrate potassium monohydrate
+
+$$$$

@@ -1,0 +1,144 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  1  4  1  1
+  7  1  1  0
+  2  3  1  1
+  5  2  1  0
+  6  5  1  0
+  8  7  2  0
+  9  7  1  0
+ 10  8  1  0
+ 11  9  2  0
+ 12 10  2  0
+ 12 11  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01364
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CN[C@@H](C)[C@H](O)C1=CC=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,10-12H,1-2H3/t8-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+KWGRBVOPPLSCSI-WPRPVWTQSA-N
+
+>  <FORMULA>  (1) 
+C10H15NO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+165.2322
+
+>  <EXACT_MASS>  (1) 
+165.115364107
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.796313018057138
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2S)-2-(methylamino)-1-phenylpropan-1-ol
+
+>  <ALOGPS_LOGP>  (1) 
+1.00
+
+>  <JCHEM_LOGP>  (1) 
+1.3178347283333334
+
+>  <ALOGPS_LOGS>  (1) 
+-1.30
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.889531450472283
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.524908674853327
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.26
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.68730000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.26e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ephedrine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB01364
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ephedrine
+
+>  <SYNONYMS>  (1) 
+(-)-Ephedrine; (1R,2S)-1-Phenyl-1-hydroxy-2-methylaminopropane; Efedrina; Ephedrine; L-Ephedrine; L-erythro-2-(Methylamino)-1-phenylpropan-1-ol; L(−)-ephedrine
+
+>  <PRODUCTS>  (1) 
+Akovaz; Balminil Nasal Ointment; Bronch Eze; Bronchial Asthma Relief; Broncho Dilate; Broncho Tuss Adult; Broncho Tuss Infant; Bronkaid Dual Action Formula; Bronkaid Max; ColdaeWon Cold A; ColdaeWon Cold A Syrup; ColdaeWon Cough A; ColdaeWon Cough A Syrup; Corphedra; Dymetadrine 25 - Tab; Emerphed; Emerphed -PFS; Ephed Asthma; Ephed Plus; Ephed Plus Liquid; Ephedrine; Ephedrine HCl; Ephedrine HCl - Tab 25mg; Ephedrine HCl 8 mg; Ephedrine Hydrochloride; Ephedrine Hydrochloride Tablets 25mg; Ephedrine Sulfate; Ephedrine Sulfate Injection USP; Ephedrine Sulfate Injection USP, 50mg/ml; Ephedrine Sulfate Injection, USP; Ephedrine Sulphate; Ephedrine Sulphate Injection, USP; Ephedrine Tab 15mg; Ephedrine Tab 30mg; Ephedrine V With Guaifenesin; Ephedrine sulfate; Formula C34 Tab .13mg; Formule G8 Liq 1.5%; Grippalin; HanPoong Beat Cold; HanPoong Gal Cheon Xin Extract Granules; Hemorro-dol Sup; I.D.M. Solution; Madame Pearl's Cough Syrup; Nasal Jelly Thuna's; Primatene; Red Label Ephed Plus; Red Label Ephedrine Plus; Rezipres; Rhino-vaccin; Rinosan MINT Nasal Decongestant; Rinosan Mint Nasal Decongestant; Rinosan PROPO Nasal Decongestant; Rinosan Propo Nasal Decongestant; Rynatuss; Sinuplex - Tab; Spinal Anesthesia Tray; T-drene 1; Tedral Tab; Ultra T-M - Tablet; Vasopro Ephedrine; Vicks Cough Syrup New Improved
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Rezipres
+
+>  <SALTS>  (1) 
+Ephedrine hydrochloride; Ephedrine sulfate; Ephedrine tannate
+
+$$$$

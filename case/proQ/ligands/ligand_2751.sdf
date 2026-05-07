@@ -1,0 +1,139 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    0.4221   -0.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0144    0.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2594   -0.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8130   -0.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8274    0.7201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6719   -0.7104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4969   -0.7104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0771   -0.0108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4969   -0.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  3  6  2  0
+  4  7  2  0
+  5  8  2  0
+  7  9  1  0
+  8 10  1  0
+ 10 11  1  0
+  6  8  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB15916
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+COC1=CC=C(\C=C\C)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12O/c1-3-4-9-5-7-10(11-2)8-6-9/h3-8H,1-2H3/b4-3+
+
+>  <INCHI_KEY>  (1) 
+RUVINXPYWBROJD-ONEGZZNKSA-N
+
+>  <FORMULA>  (1) 
+C10H12O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+148.205
+
+>  <EXACT_MASS>  (1) 
+148.088815006
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.505205279719657e-12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.459544272217464
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-methoxy-4-[(1E)-prop-1-en-1-yl]benzene
+
+>  <ALOGPS_LOGP>  (1) 
+3.40
+
+>  <JCHEM_LOGP>  (1) 
+2.9389116129999997
+
+>  <ALOGPS_LOGS>  (1) 
+-2.92
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.822404266999745
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.881
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.77e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(1R,3S,4S)-3-bromo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB15916
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Anethole
+
+>  <SYNONYMS>  (1) 
+(E)-Anethole; Anise camphor; Isoestragole; trans-Anethole
+
+>  <PRODUCTS>  (1) 
+Beech Nut Menthol Cough Drop; Beech-nut Menthol Cough Drops; Bentasil Cherry; Bentasil Green; Bentasil Honey-lemon; Bentasil Red; Bentasil Yellow
+
+$$$$

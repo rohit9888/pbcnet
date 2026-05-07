@@ -1,0 +1,109 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Co  0  0  0  0  0 15  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14574
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[Co]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Co
+
+>  <INCHI_KEY>  (1) 
+GUTLYIVDDKVIGB-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+Co
+
+>  <MOLECULAR_WEIGHT>  (1) 
+58.9332
+
+>  <EXACT_MASS>  (1) 
+58.933200194
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+cobalt
+
+>  <ALOGPS_LOGP>  (1) 
+-1.31
+
+>  <JCHEM_LOGP>  (1) 
+0.22999999999999998
+
+>  <ALOGPS_LOGS>  (1) 
+1.08
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+0.00e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cobalt
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB14574
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Cobalt
+
+>  <SYNONYMS>  (1) 
+Cobalt; Cobalt, elemental; Cobalto; Cobaltum; Kobalt
+
+>  <PRODUCTS>  (1) 
+Cobalt - Liq. 29.5 Mcg/ml; Oligofer Liq; Oligostim Manganese-cobalt
+
+$$$$

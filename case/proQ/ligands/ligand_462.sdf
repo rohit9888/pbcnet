@@ -1,0 +1,146 @@
+593
+     RDKit          2D
+
+ 10 10  0  0  1  0  0  0  0  0999 V2000
+    4.5544   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1023   -0.9100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6897    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2994    0.6146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7697   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    1.1846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4348   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4709    1.4216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  9  2  0
+  3  7  1  0
+  3  9  1  0
+  4  5  1  0
+  4  6  1  0
+  4  7  1  0
+  4  8  1  0
+  5  9  1  0
+  6 10  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00593
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CCC1(C)CC(=O)NC1=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H11NO2/c1-3-7(2)4-5(9)8-6(7)10/h3-4H2,1-2H3,(H,8,9,10)
+
+>  <INCHI_KEY>  (1) 
+HAPOVYFOVVWLRS-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C7H11NO2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+141.1677
+
+>  <EXACT_MASS>  (1) 
+141.078978601
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+21
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.00018748012473142496
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.44927505065605
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-ethyl-3-methylpyrrolidine-2,5-dione
+
+>  <ALOGPS_LOGP>  (1) 
+0.10
+
+>  <JCHEM_LOGP>  (1) 
+0.5500976843333328
+
+>  <ALOGPS_LOGS>  (1) 
+-0.15
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.726963337001482
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.601388869567973
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.17
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.9579
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.01e+02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00593
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00318
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Ethosuximide
+
+>  <SYNONYMS>  (1) 
+(±)-2-ethyl-2-methylsuccinimide; 2-ethyl-2-methylsuccinimide; 2-methyl-2-ethylsuccinimide; 3-ethyl-3-methyl-2,5-pyrrolidinedione; 3-ethyl-3-methylsuccinimide; 3-methyl-3-ethylpyrrolidine-2,5-dione; 3-methyl-3-ethylsuccinimide; Aethosuximide; Atysmal; Ethosuximid; éthosuximide; Ethosuximide; Ethosuximidum; Etosuximida; Thilopemal; α-ethyl-α-methylsuccinimide; α-methyl-α-ethylsuccinimide; γ-ethyl-γ-methyl-succinimide; γ-methyl-γ-ethyl-succinimide
+
+>  <PRODUCTS>  (1) 
+Ethosuximide; Mar-ethosuximide; Odan-ethosuximide; Zarontin; Zarontin Syrup
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Emeside; Ethymal; Etoxin; Petimid; Petinimid; Petnidan; Suxilep; Suxinutin; Zarondan
+
+$$$$

@@ -1,0 +1,108 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB11153
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+[OH-].[K+]
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/K.H2O/h;1H2/q+1;/p-1
+
+>  <INCHI_KEY>  (1) 
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+
+>  <FORMULA>  (1) 
+HKO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+56.1056
+
+>  <EXACT_MASS>  (1) 
+55.966446515
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium hydroxide
+
+>  <JCHEM_LOGP>  (1) 
+0.2
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+3.55
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.09
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium hydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB11153
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Potassium hydroxide
+
+>  <SYNONYMS>  (1) 
+Ätzkali; hydroxyde de potassium; Kaliumhydroxid; potash lye; potasio hidróxido; potasse caustique; Potassium Hydrate; Potassium hydroxide
+
+>  <PRODUCTS>  (1) 
+MIRACLE WATER 3 in 1; OHTrust Nano Ion Water; Potassium Hydroxide; Tincture Green; Tincture Green Soap; Vamin N
+
+$$$$

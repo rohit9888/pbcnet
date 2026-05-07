@@ -1,0 +1,198 @@
+
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+    1.8804    2.0609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8804    1.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1659    2.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1659    0.8234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4515    2.0609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4515    1.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5950    0.8234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3094    1.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5950   -0.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0238    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3094   -0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0238   -0.0016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7383    1.2358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7384    2.0608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4529    0.8232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1658   -0.0015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2630    0.8234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9774    1.2359    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7619    0.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4295    1.4659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0170    0.1963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0969    0.9809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8421    0.1963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5319   -0.4710    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4295    2.2909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3270   -0.4710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1475   -0.3847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9915   -1.2247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6325   -1.0523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4763   -1.8921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2969   -1.8060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7819   -2.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4529   -0.9660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  8  7  2  0
+  9  7  1  0
+ 10  8  1  0
+ 11  9  2  0
+ 12 10  2  0
+ 12 11  1  0
+  2  7  1  0
+ 14 13  2  0
+ 15 13  1  0
+ 10 13  1  0
+  4 16  1  0
+  6 17  1  0
+ 17 18  1  0
+ 20 19  1  0
+ 21 19  1  0
+ 22 20  2  0
+ 23 21  1  0
+ 23 22  1  0
+ 18 19  2  0
+ 21 24  2  0
+ 20 25  1  0
+ 27 26  2  0
+ 28 26  1  0
+ 29 27  1  0
+ 30 28  2  0
+ 31 29  2  0
+ 31 30  1  0
+ 23 26  1  0
+ 31 32  1  0
+ 29 33  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB06210
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <SMILES>  (1) 
+CC1=NN(C(=O)\C1=N/NC1=CC=CC(C2=CC=CC(=C2)C(O)=O)=C1O)C1=CC=C(C)C(C)=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H22N4O4/c1-14-10-11-19(12-15(14)2)29-24(31)22(16(3)28-29)27-26-21-9-5-8-20(23(21)30)17-6-4-7-18(13-17)25(32)33/h4-13,26,30H,1-3H3,(H,32,33)/b27-22-
+
+>  <INCHI_KEY>  (1) 
+XDXWLKQMMKQXPV-QYQHSDTDSA-N
+
+>  <FORMULA>  (1) 
+C25H22N4O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+442.4666
+
+>  <EXACT_MASS>  (1) 
+442.164105212
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+55
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.989512969944018
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+47.69541391003913
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3'-{2-[(4Z)-1-(3,4-dimethylphenyl)-3-methyl-5-oxo-4,5-dihydro-1H-pyrazol-4-ylidene]hydrazin-1-yl}-2'-hydroxy-[1,1'-biphenyl]-3-carboxylic acid
+
+>  <ALOGPS_LOGP>  (1) 
+4.02
+
+>  <JCHEM_LOGP>  (1) 
+6.026236312666667
+
+>  <ALOGPS_LOGS>  (1) 
+-4.63
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+5.381807770645478
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.9690266479398892
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.12068262694029787
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+114.59
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+126.48269999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.03e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+motesanib
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB06210
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Eltrombopag
+
+>  <SYNONYMS>  (1) 
+Eltrombopag; Eltrombopagum
+
+>  <PRODUCTS>  (1) 
+Alvaiz; Apo-eltrombopag; Eltrombopag; Eltrombopag Accord; Eltrombopag Olamine; Eltrombopag Viatris; Eltrombopag olamine; Promacta; Revolade; Teva-eltrombopag
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Promacta; Revolade
+
+>  <SALTS>  (1) 
+Eltrombopag choline; Eltrombopag olamine
+
+$$$$
